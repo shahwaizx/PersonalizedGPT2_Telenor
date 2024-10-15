@@ -1,0 +1,38 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the 3 Day Hybrid Package."},
+            {"role": "user", "content": "What does the 3 Day Hybrid Package include?"},
+            {"role": "user", "content": "Can you tell me what's offered in the 3 Day Hybrid Package?"},
+            {"role": "user", "content": "What are the benefits of the Telenor 3 Day Hybrid Package?"},
+            {"role": "assistant", "content": "The 3 Day Hybrid Package includes 1GB of internet, 500 on-net minutes, 20 off-net/PTCL minutes, and 150 SMS for Rs. 60 including tax. The package is valid for 3 days and can be activated by dialing *345*210# or availed at your nearest retailer for Rs. 80."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the 3 Day Hybrid Package."},
+            {"role": "user", "content": "How can I activate the 3 Day Hybrid Package?"},
+            {"role": "user", "content": "What is the method to subscribe to the 3 Day Hybrid Package?"},
+            {"role": "user", "content": "How do I get the 3 Day Hybrid Package?"},
+            {"role": "assistant", "content": "You can activate the 3 Day Hybrid Package by dialing *345*210#. The package can also be availed at your nearest retailer for Rs. 80."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the 3 Day Hybrid Package."},
+            {"role": "user", "content": "Who is eligible for the 3 Day Hybrid Package?"},
+            {"role": "user", "content": "Can all Telenor customers subscribe to the 3 Day Hybrid Package?"},
+            {"role": "user", "content": "What are the eligibility criteria for the 3 Day Hybrid Package?"},
+            {"role": "assistant", "content": "All Telenor GSM Prepaid customers are eligible for the 3 Day Hybrid Package."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the 3 Day Hybrid Package."},
+            {"role": "user", "content": "How long is the 3 Day Hybrid Package valid?"},
+            {"role": "user", "content": "What is the validity period of the 3 Day Hybrid Package?"},
+            {"role": "user", "content": "For how many days does the 3 Day Hybrid Package remain active?"},
+            {"role": "assistant", "content": "The 3 Day Hybrid Package is valid for 3 days from the date of subscription. Subscribers will be notified once the package expires."}
+        ]
+    }
+]

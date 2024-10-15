@@ -1,0 +1,38 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Monthly Extreme Pro Max package."},
+            {"role": "user", "content": "What does the Monthly Extreme Pro Max package include?"},
+            {"role": "user", "content": "Can you tell me what's offered in the Monthly Extreme Pro Max package?"},
+            {"role": "user", "content": "What are the benefits of the Telenor Monthly Extreme Pro Max package?"},
+            {"role": "assistant", "content": "The Monthly Extreme Pro Max package includes 100GB of internet, unlimited on-net minutes, 800 off-net minutes, and 10000 SMS for Rs. 1300 including tax. The package is valid for 30 days and can be activated by dialing *345*26#."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Monthly Extreme Pro Max package."},
+            {"role": "user", "content": "How can I activate the Monthly Extreme Pro Max package?"},
+            {"role": "user", "content": "What is the method to subscribe to the Monthly Extreme Pro Max package?"},
+            {"role": "user", "content": "How do I get the Monthly Extreme Pro Max package?"},
+            {"role": "assistant", "content": "You can activate the Monthly Extreme Pro Max package by dialing *345*26#. The package offers 100GB of internet, unlimited on-net minutes, 800 off-net minutes, and 10000 SMS for 30 days."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Monthly Extreme Pro Max package."},
+            {"role": "user", "content": "Who is eligible for the Monthly Extreme Pro Max package?"},
+            {"role": "user", "content": "Can all Telenor customers subscribe to the Monthly Extreme Pro Max package?"},
+            {"role": "user", "content": "What are the eligibility criteria for the Monthly Extreme Pro Max package?"},
+            {"role": "assistant", "content": "All Telenor Prepaid customers are eligible for the Monthly Extreme Pro Max package."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Monthly Extreme Pro Max package."},
+            {"role": "user", "content": "How long is the Monthly Extreme Pro Max package valid?"},
+            {"role": "user", "content": "What is the validity period of the Monthly Extreme Pro Max package?"},
+            {"role": "user", "content": "For how many days does the Monthly Extreme Pro Max package remain active?"},
+            {"role": "assistant", "content": "The Monthly Extreme Pro Max package is valid for 30 days from the date of subscription. Subscribers will be notified once the package expires."}
+        ]
+    }
+]

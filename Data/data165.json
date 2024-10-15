@@ -1,0 +1,23 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Good Time Offer."},
+            {"role": "user", "content": "How do I activate the Good Time Offer?"},
+            {"role": "assistant", "content": "To activate the Telenor Good Time Offer, dial *345*20#. This offer includes 2 hours of unlimited calls to any Telenor number and 250 MB specifically for Facebook use, valid for 2 hours from the time of subscription."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Good Time Offer."},
+            {"role": "user", "content": "Who can subscribe to the Good Time Offer?"},
+            {"role": "assistant", "content": "The Telenor Good Time Offer is available to all Telenor and Djuice customers. This includes both prepaid GSM customers who can enjoy this short-term offer for quick calls and Facebook browsing."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Good Time Offer."},
+            {"role": "user", "content": "What are the conditions for the Good Time Offer?"},
+            {"role": "assistant", "content": "The Good Time Offer costs Rs. 6, inclusive of tax. It provides unlimited Telenor calls for 2 hours and 250 MB for Facebook, valid for 2 hours after subscription. Call setup charges apply, and the offer can be subscribed multiple times but will not merge with previous subscriptions. It will not be renewed automatically once it expires."}
+        ]
+    }
+]

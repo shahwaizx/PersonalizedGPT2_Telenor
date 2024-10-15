@@ -1,0 +1,225 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing support for the Weekly Social Pack."},
+            {"role": "user", "content": "What does the Weekly Social Pack include?"},
+            {"role": "user", "content": "Can you tell me about the Weekly Social Pack offer?"},
+            {"role": "user", "content": "What are the benefits of the Weekly Social Pack?"},
+            {"role": "assistant", "content": "The Weekly Social Pack includes 5000MB of internet specifically for Facebook and WhatsApp usage, and 100 On-net & 10 Off-net minutes for Rs. 113. This package allows you to stay connected on your favorite social platforms and through calls for an entire week."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on how to subscribe to the Weekly Social Pack."},
+            {"role": "user", "content": "How can I subscribe to the Weekly Social Pack?"},
+            {"role": "user", "content": "What's the code to activate the Weekly Social Pack offer?"},
+            {"role": "user", "content": "Tell me how to get the Weekly Social Pack."},
+            {"role": "assistant", "content": "You can subscribe to the Weekly Social Pack by dialing *345*53# from your Telenor GSM Prepaid SIM."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing details on package renewals."},
+            {"role": "user", "content": "Does the Weekly Social Pack renew automatically?"},
+            {"role": "user", "content": "Will my Weekly Social Pack automatically renew?"},
+            {"role": "assistant", "content": "The Weekly Social Pack does not renew automatically. You must manually subscribe again once it expires to continue using the services."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on package eligibility."},
+            {"role": "user", "content": "Who is eligible for the Weekly Social Pack?"},
+            {"role": "user", "content": "Can anyone subscribe to the Weekly Social Pack offer?"},
+            {"role": "assistant", "content": "All Telenor GSM Prepaid customers are eligible for the Weekly Social Pack."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on package validity."},
+            {"role": "user", "content": "How long is the Weekly Social Pack valid for?"},
+            {"role": "user", "content": "What is the validity of the Weekly Social Pack?"},
+            {"role": "assistant", "content": "The Weekly Social Pack is valid for 7 days from the date of subscription. Subscribers will be informed when the package expires at midnight."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on package usage."},
+            {"role": "user", "content": "What happens if my data finishes before the Weekly Social Pack expires?"},
+            {"role": "user", "content": "What are the charges if I run out of data before the Weekly Social Pack validity ends?"},
+            {"role": "assistant", "content": "If your data finishes before the package expires, you will be charged at Rs 1/MB incl. tax until the package expires."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on package subscription."},
+            {"role": "user", "content": "Can I subscribe to the Weekly Social Pack multiple times within its validity period?"},
+            {"role": "user", "content": "Is it possible to resubscribe to the Weekly Social Pack before it expires?"},
+            {"role": "assistant", "content": "Yes, you can subscribe to the Weekly Social Pack multiple times within its validity period. However, resources and their validity from multiple subscriptions are independent of each other and will not merge."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on data speed and availability."},
+            {"role": "user", "content": "What factors can affect the data speed of the Weekly Social Pack?"},
+            {"role": "user", "content": "Will my data speed vary with the Weekly Social Pack?"},
+            {"role": "assistant", "content": "Data speed for the Weekly Social Pack can vary depending on factors such as your phone, types of URLs accessed, busy hour logistics, network service provider, and your location. Data packages can be availed in 2G/3G/4G network providing areas."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on supplementary packages."},
+            {"role": "user", "content": "Is there a supplementary package available if I run out of data on the Weekly Social Pack?"},
+            {"role": "user", "content": "What can I do if I need more data after using up my Weekly Social Pack?"},
+            {"role": "assistant", "content": "Yes, there is a supplementary package available that provides 300MB for PKR 6. You can activate it by dialing *503#. This supplementary offer can be availed once a month and provides a hedge against accidental standard rate charging."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing support for the Daily YouTube Package."},
+            {"role": "user", "content": "What does the Daily YouTube Package include?"},
+            {"role": "user", "content": "Can you tell me about the Daily YouTube Package?"},
+            {"role": "user", "content": "What are the benefits of the Daily YouTube Package?"},
+            {"role": "assistant", "content": "The Daily YouTube Package includes 500MB of internet for YouTube usage for Rs. 8, including taxes. This package is valid for 1 day until midnight and allows you to stream your favorite videos on YouTube all day long."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on how to subscribe to the Daily YouTube Package."},
+            {"role": "user", "content": "How can I subscribe to the Daily YouTube Package?"},
+            {"role": "user", "content": "What's the code to activate the Daily YouTube Package?"},
+            {"role": "user", "content": "Tell me how to get the Daily YouTube Package."},
+            {"role": "assistant", "content": "You can subscribe to the Daily YouTube Package by dialing *60# from your Telenor GSM Prepaid SIM."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing details on package renewals."},
+            {"role": "user", "content": "Does the Daily YouTube Package renew automatically?"},
+            {"role": "user", "content": "Will my Daily YouTube Package automatically renew?"},
+            {"role": "assistant", "content": "The Daily YouTube Package does not renew automatically. You must manually subscribe again once it expires to continue using the services."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on package eligibility."},
+            {"role": "user", "content": "Who is eligible for the Daily YouTube Package?"},
+            {"role": "user", "content": "Can anyone subscribe to the Daily YouTube Package?"},
+            {"role": "assistant", "content": "All Telenor GSM Prepaid customers are eligible for the Daily YouTube Package."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on package validity."},
+            {"role": "user", "content": "How long is the Daily YouTube Package valid for?"},
+            {"role": "user", "content": "What is the validity of the Daily YouTube Package?"},
+            {"role": "assistant", "content": "The Daily YouTube Package is valid for 1 day until midnight from the date of subscription."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on package usage."},
+            {"role": "user", "content": "What happens if my data finishes before the Daily YouTube Package expires?"},
+            {"role": "user", "content": "What are the charges if I run out of data before the Daily YouTube Package validity ends?"},
+            {"role": "assistant", "content": "If your data finishes before the package expires, you will be charged at Rs 1/MB incl. tax until the package expires."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on package subscription."},
+            {"role": "user", "content": "Can I subscribe to the Daily YouTube Package multiple times within its validity period?"},
+            {"role": "user", "content": "Is it possible to resubscribe to the Daily YouTube Package before it expires?"},
+            {"role": "assistant", "content": "Yes, you can subscribe to the Daily YouTube Package multiple times within its validity period. However, resources and their validity from multiple subscriptions are independent of each other and will not merge."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on data speed and availability."},
+            {"role": "user", "content": "What factors can affect the data speed of the Daily YouTube Package?"},
+            {"role": "user", "content": "Will my data speed vary with the Daily YouTube Package?"},
+            {"role": "assistant", "content": "Data speed for the Daily YouTube Package can vary depending on factors such as your phone, types of URLs accessed, busy hour logistics, network service provider, and your location. Data packages can be availed in 2G/3G/4G network providing areas."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on supplementary packages."},
+            {"role": "user", "content": "Is there a supplementary package available if I run out of data on the Daily YouTube Package?"},
+            {"role": "user", "content": "What can I do if I need more data after using up my Daily YouTube Package?"},
+            {"role": "assistant", "content": "Yes, there is a supplementary package available that provides 300MB for PKR 6. You can activate it by dialing *503#. This supplementary offer can be availed once a month and provides a hedge against accidental standard rate charging."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing support for the Weekly Video Package."},
+            {"role": "user", "content": "What does the Weekly Video Package include?"},
+            {"role": "user", "content": "Can you tell me about the Weekly Video Package?"},
+            {"role": "user", "content": "What are the benefits of the Weekly Video Package?"},
+            {"role": "assistant", "content": "The Weekly Video Package includes 5000MB of internet for use on YouTube, TikTok, Likee, and SnackVideo for Rs. 130, including taxes. This package is valid for 7 days and allows you to enjoy streaming your favorite videos all week long."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on how to subscribe to the Weekly Video Package."},
+            {"role": "user", "content": "How can I subscribe to the Weekly Video Package?"},
+            {"role": "user", "content": "What's the code to activate the Weekly Video Package?"},
+            {"role": "user", "content": "Tell me how to get the Weekly Video Package."},
+            {"role": "assistant", "content": "You can subscribe to the Weekly Video Package by dialing *220# from your Telenor GSM Prepaid SIM."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing details on package renewals."},
+            {"role": "user", "content": "Does the Weekly Video Package renew automatically?"},
+            {"role": "user", "content": "Will my Weekly Video Package automatically renew?"},
+            {"role": "assistant", "content": "The Weekly Video Package does not renew automatically. You must manually subscribe again once it expires to continue using the services."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on package eligibility."},
+            {"role": "user", "content": "Who is eligible for the Weekly Video Package?"},
+            {"role": "user", "content": "Can anyone subscribe to the Weekly Video Package?"},
+            {"role": "assistant", "content": "All Telenor GSM Prepaid customers are eligible for the Weekly Video Package."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on package validity."},
+            {"role": "user", "content": "How long is the Weekly Video Package valid for?"},
+            {"role": "user", "content": "What is the validity of the Weekly Video Package?"},
+            {"role": "assistant", "content": "The Weekly Video Package is valid for 7 days from the date of subscription, until midnight on the last day."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on package usage."},
+            {"role": "user", "content": "What happens if my data finishes before the Weekly Video Package expires?"},
+            {"role": "user", "content": "What are the charges if I run out of data before the Weekly Video Package validity ends?"},
+            {"role": "assistant", "content": "If your data finishes before the package expires, you will be charged at Rs 1/MB incl. tax until the package expires."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on package subscription."},
+            {"role": "user", "content": "Can I subscribe to the Weekly Video Package multiple times within its validity period?"},
+            {"role": "user", "content": "Is it possible to resubscribe to the Weekly Video Package before it expires?"},
+            {"role": "assistant", "content": "Yes, you can subscribe to the Weekly Video Package multiple times within its validity period. However, resources and their validity from multiple subscriptions are independent of each other and will not merge."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on data speed and availability."},
+            {"role": "user", "content": "What factors can affect the data speed of the Weekly Video Package?"},
+            {"role": "user", "content": "Will my data speed vary with the Weekly Video Package?"},
+            {"role": "assistant", "content": "Data speed for the Weekly Video Package can vary depending on factors such as your phone, types of URLs accessed, busy hour logistics, network service provider, and your location. Data packages can be availed in 2G/3G/4G network providing areas."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on supplementary packages."},
+            {"role": "user", "content": "Is there a supplementary package available if I run out of data on the Weekly Video Package?"},
+            {"role": "user", "content": "What can I do if I need more data after using up my Weekly Video Package?"},
+            {"role": "assistant", "content": "Yes, there is a supplementary package available that provides 300MB for PKR 6. You can activate it by dialing *503#. This supplementary offer can be availed once a month and provides a hedge against accidental standard rate charging."}
+        ]
+    }
+]
+

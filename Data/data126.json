@@ -1,0 +1,38 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Weekly EasyCard Extreme package."},
+            {"role": "user", "content": "What does the Weekly EasyCard Extreme package include?"},
+            {"role": "user", "content": "Can you tell me what's offered in the Weekly EasyCard Extreme package?"},
+            {"role": "user", "content": "What are the benefits of the Telenor Weekly EasyCard Extreme package?"},
+            {"role": "assistant", "content": "The Weekly EasyCard Extreme package offers 40GB of internet (20GB + 20GB from 1am to 9am), 7500 Telenor & PTCL minutes, 200 offnet minutes, and 3500 SMS for Rs. 320 including tax. The package is valid for 7 days."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Weekly EasyCard Extreme package."},
+            {"role": "user", "content": "How can I activate the Weekly EasyCard Extreme package?"},
+            {"role": "user", "content": "What is the method to subscribe to the Weekly EasyCard Extreme package?"},
+            {"role": "user", "content": "How do I get the Weekly EasyCard Extreme package?"},
+            {"role": "assistant", "content": "The Weekly EasyCard Extreme package can be subscribed to through the Easypaisa App and Retailer Menu for Rs. 370 load price."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Weekly EasyCard Extreme package."},
+            {"role": "user", "content": "Who is eligible for the Weekly EasyCard Extreme package?"},
+            {"role": "user", "content": "Can all Telenor customers subscribe to the Weekly EasyCard Extreme package?"},
+            {"role": "user", "content": "What are the eligibility criteria for the Weekly EasyCard Extreme package?"},
+            {"role": "assistant", "content": "All Telenor Prepaid customers are eligible for the Weekly EasyCard Extreme offer."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Weekly EasyCard Extreme package."},
+            {"role": "user", "content": "How long is the Weekly EasyCard Extreme package valid?"},
+            {"role": "user", "content": "What is the validity period of the Weekly EasyCard Extreme package?"},
+            {"role": "user", "content": "For how many days does the Weekly EasyCard Extreme package remain active?"},
+            {"role": "assistant", "content": "The Weekly EasyCard Extreme package is valid for 7 days from the date of subscription. Subscribers will be notified once the package expires."}
+        ]
+    }
+]

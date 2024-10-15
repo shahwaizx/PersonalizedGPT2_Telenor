@@ -1,0 +1,9 @@
+{
+    "messages": [
+        {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing support for Smart Share services."},
+        {"role": "user", "content": "My Smart Share is not working?"},
+        {"role": "user", "content": "What should I do if Smart Share isn't functioning?"},
+        {"role": "user", "content": "How can I fix issues with my Smart Share service?"},
+        {"role": "assistant", "content": "Call 345 or UAN: 042-111-345-100 or visit any Telenor Sales & Service Centre to get Smart Share activated on your Telenor prepaid subscription."}
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "messages": [
+        {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing support for balance inquiries."},
+        {"role": "user", "content": "How can I check the balance of my Call, SMS and Internet Data?"},
+        {"role": "user", "content": "What codes do I use to check my call, SMS, and data balances?"},
+        {"role": "user", "content": "How do I find out my remaining minutes, SMS, and data?"},
+        {"role": "assistant", "content": "To check remaining SMS dial *111# @ Rs. 0.20 + tax. To check remaining Minutes dial *222# @ Rs. 0.20 + tax. To check remaining Internet dial *999# @ Rs. 0.20 + tax."}
+    ]
+}

@@ -1,0 +1,38 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Monthly EasyCard 750."},
+            {"role": "user", "content": "What does the Monthly EasyCard 750 offer include?"},
+            {"role": "user", "content": "Can you tell me what's included in the EasyCard 750 package?"},
+            {"role": "user", "content": "What are the benefits of the Telenor Monthly EasyCard 750?"},
+            {"role": "assistant", "content": "The Monthly EasyCard 750 offers 8GB of internet plus an additional 8GB for use between 1am-9am, 3500 Telenor & PTCL minutes, 300 offnet minutes, and 1750 SMS. It's available for Rs. 780 if activated through *345*19# or MyTelenor App, and for Rs. 900 via retailer or Easypaisa App."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Monthly EasyCard 750."},
+            {"role": "user", "content": "How can I activate the Monthly EasyCard 750?"},
+            {"role": "user", "content": "What are the ways to subscribe to the EasyCard 750?"},
+            {"role": "user", "content": "How do I get started with Telenor's EasyCard 750?"},
+            {"role": "assistant", "content": "You can activate the Monthly EasyCard 750 by dialing *345*19# or through the MyTelenor App for Rs. 780, or you can purchase it for Rs. 900 via a retailer or through the Easypaisa App."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Monthly EasyCard 750."},
+            {"role": "user", "content": "Who is eligible for the Monthly EasyCard 750?"},
+            {"role": "user", "content": "Can anyone subscribe to the EasyCard 750?"},
+            {"role": "user", "content": "What are the eligibility requirements for the EasyCard 750?"},
+            {"role": "assistant", "content": "All Telenor Prepaid customers are eligible for the Monthly EasyCard 750 offer."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Monthly EasyCard 750."},
+            {"role": "user", "content": "How long does the Monthly EasyCard 750 last?"},
+            {"role": "user", "content": "What is the validity period of the EasyCard 750?"},
+            {"role": "user", "content": "For how long is the EasyCard 750 valid after activation?"},
+            {"role": "assistant", "content": "The Monthly EasyCard 750 is valid for 30 days from the subscription date. Subscribers will be informed once the package expires."}
+        ]
+    }
+]

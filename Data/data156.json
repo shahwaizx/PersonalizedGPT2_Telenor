@@ -1,0 +1,34 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Mega Data Bundle offer for UK, USA, Australia, and Turkey."},
+            {"role": "user", "content": "What is the cost of the Mega Data Bundle for UK, USA, Australia, and Turkey?"},
+            {"role": "user", "content": "How much does the Mega Data Bundle cost for UK, USA, Australia, and Turkey?"},
+            {"role": "assistant", "content": "The Mega Data Bundle for UK, USA, Australia, and Turkey costs Rs. 1499."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Mega Data Bundle offer for UK, USA, Australia, and Turkey."},
+            {"role": "user", "content": "How can I activate the Mega Data Bundle for UK, USA, Australia, and Turkey?"},
+            {"role": "user", "content": "What is the activation process for the Mega Data Bundle for UK, USA, Australia, and Turkey?"},
+            {"role": "assistant", "content": "To activate the Mega Data Bundle, dial *759# (Dial for Free)."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Mega Data Bundle offer for UK, USA, Australia, and Turkey."},
+            {"role": "user", "content": "What is the validity of the Mega Data Bundle for UK, USA, Australia, and Turkey?"},
+            {"role": "user", "content": "How long is the Mega Data Bundle valid for UK, USA, Australia, and Turkey?"},
+            {"role": "assistant", "content": "The Mega Data Bundle is valid for 30 days."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Mega Data Bundle offer for UK, USA, Australia, and Turkey."},
+            {"role": "user", "content": "What are the terms and conditions for the Mega Data Bundle for UK, USA, Australia, and Turkey?"},
+            {"role": "user", "content": "Can you provide details about the terms and conditions for the Mega Data Bundle for UK, USA, Australia, and Turkey?"},
+            {"role": "assistant", "content": "The Mega Data Bundle will expire when the main account validity ends, but it will remain unchanged on package plan changes. IR service needs to be activated by dialing *759#. The bundle can be subscribed in Pakistan and abroad by dialing *759#, but it will be consumed only in UK, USA, Australia, and Turkey. The offer mechanics and price are subject to change, and Telenor reserves the right to withdraw the offer at any time."}
+        ]
+    }
+]

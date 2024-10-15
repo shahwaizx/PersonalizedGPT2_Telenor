@@ -1,0 +1,56 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the 5 Day SMS Bundle package."},
+            {"role": "user", "content": "What does the 5 Day SMS Bundle include?"},
+            {"role": "user", "content": "Can you tell me the benefits of the 5 Day SMS Bundle?"},
+            {"role": "user", "content": "What resources are provided in the 5 Day SMS Bundle?"},
+            {"role": "assistant", "content": "The 5 Day SMS Bundle includes 300 SMS and is priced at Rs. 9.5 including tax. It is valid for 5 days."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the 5 Day SMS Bundle package."},
+            {"role": "user", "content": "How can I activate the 5 Day SMS Bundle?"},
+            {"role": "user", "content": "What is the process to subscribe to the 5 Day SMS Bundle?"},
+            {"role": "user", "content": "How do I get the 5 Day SMS Bundle?"},
+            {"role": "assistant", "content": "To activate the 5 Day SMS Bundle, dial 555 or *345*015#. Confirm your mobile number if prompted. The bundle will provide 300 SMS valid for 5 days."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the 5 Day SMS Bundle package."},
+            {"role": "user", "content": "Who can subscribe to the 5 Day SMS Bundle?"},
+            {"role": "user", "content": "Can all Telenor customers avail the 5 Day SMS Bundle?"},
+            {"role": "user", "content": "What are the eligibility criteria for the 5 Day SMS Bundle?"},
+            {"role": "assistant", "content": "All Telenor subscribers are eligible for the 5 Day SMS Bundle. It can be activated by dialing 555 or *345*015#."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the 5 Day SMS Bundle package."},
+            {"role": "user", "content": "How long is the 5 Day SMS Bundle valid?"},
+            {"role": "user", "content": "What is the validity period for the 5 Day SMS Bundle?"},
+            {"role": "user", "content": "For how many days does the 5 Day SMS Bundle remain active?"},
+            {"role": "assistant", "content": "The 5 Day SMS Bundle is valid for 5 days from the date of activation."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the 5 Day SMS Bundle package."},
+            {"role": "user", "content": "How can I check my free SMS balance?"},
+            {"role": "user", "content": "What is the process to check my remaining SMS balance?"},
+            {"role": "user", "content": "How do I find out how many SMS I have left?"},
+            {"role": "assistant", "content": "To check your free SMS balance, dial *111# (charges Rs. 0.24) after subscribing to the 5 Day SMS Bundle."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the 5 Day SMS Bundle package."},
+            {"role": "user", "content": "Are there any additional charges for the 5 Day SMS Bundle in certain regions?"},
+            {"role": "user", "content": "Will I be charged more for the 5 Day SMS Bundle in specific areas?"},
+            {"role": "user", "content": "Are there higher prices for the 5 Day SMS Bundle in certain regions?"},
+            {"role": "assistant", "content": "Yes, a 0.84% higher price will be charged for the 5 Day SMS Bundle in the Federal Territory, Baluchistan, AJK, and Gilgit Baltistan regions."}
+        ]
+    }
+]

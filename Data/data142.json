@@ -1,0 +1,38 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the EasyCard 1000 package."},
+            {"role": "user", "content": "What does the EasyCard 1000 package include?"},
+            {"role": "user", "content": "Can you tell me the benefits of the EasyCard 1000 package?"},
+            {"role": "user", "content": "What resources are provided in the EasyCard 1000 package?"},
+            {"role": "assistant", "content": "The EasyCard 1000 package includes 18GB of internet data plus an additional 18GB from 1am to 9am, 7,000 on-net minutes (Telenor & PTCL), 600 off-net minutes, and 10,000 SMS for Rs. 950 including tax. The package is valid for 30 days."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the EasyCard 1000 package."},
+            {"role": "user", "content": "How can I activate the EasyCard 1000 package?"},
+            {"role": "user", "content": "What is the process to subscribe to the EasyCard 1000 package?"},
+            {"role": "user", "content": "How do I get the EasyCard 1000 package?"},
+            {"role": "assistant", "content": "To activate the EasyCard 1000 package, dial *248# or load Rs. 1100 on Easypaisa or MyTelenor App. The package will provide 18GB of data plus an additional 18GB from 1am to 9am, 7,000 on-net minutes, 600 off-net minutes, and 10,000 SMS for 30 days."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the EasyCard 1000 package."},
+            {"role": "user", "content": "Who can subscribe to the EasyCard 1000 package?"},
+            {"role": "user", "content": "Can all Telenor customers avail the EasyCard 1000 package?"},
+            {"role": "user", "content": "What are the eligibility criteria for the EasyCard 1000 package?"},
+            {"role": "assistant", "content": "All Telenor Prepaid customers are eligible for the EasyCard 1000 package."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the EasyCard 1000 package."},
+            {"role": "user", "content": "How long is the EasyCard 1000 package valid?"},
+            {"role": "user", "content": "What is the validity period for the EasyCard 1000 package?"},
+            {"role": "user", "content": "For how many days does the EasyCard 1000 package remain active?"},
+            {"role": "assistant", "content": "The EasyCard 1000 package is valid for 30 days from the date of subscription. Subscribers will be informed once the package expires. Re-subscribing within the validity period will extend the offer for another 30 days."}
+        ]
+    }
+]

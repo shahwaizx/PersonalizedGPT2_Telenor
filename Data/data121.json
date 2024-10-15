@@ -1,0 +1,38 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the 15 Days Plus package."},
+            {"role": "user", "content": "What does the 15 Days Plus package include?"},
+            {"role": "user", "content": "Can you tell me what is offered in the 15 Days Plus package?"},
+            {"role": "user", "content": "What are the benefits of the Telenor 15 Days Plus package?"},
+            {"role": "assistant", "content": "The 15 Days Plus package provides 5 GB of internet, 3500 Telenor minutes, 200 minutes on other networks, and 3500 SMS for 15 days. It is priced at Rs. 350 including tax and is available through easypaisa."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the 15 Days Plus package."},
+            {"role": "user", "content": "How can I activate the 15 Days Plus package?"},
+            {"role": "user", "content": "What is the method to subscribe to the 15 Days Plus package?"},
+            {"role": "user", "content": "How do I get the 15 Days Plus package?"},
+            {"role": "assistant", "content": "The 15 Days Plus package can be subscribed to exclusively through the easypaisa application."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the 15 Days Plus package."},
+            {"role": "user", "content": "Who is eligible for the 15 Days Plus package?"},
+            {"role": "user", "content": "Can all Telenor customers subscribe to the 15 Days Plus package?"},
+            {"role": "user", "content": "What are the eligibility criteria for the 15 Days Plus package?"},
+            {"role": "assistant", "content": "All Telenor Prepaid customers are eligible for the 15 Days Plus package."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the 15 Days Plus package."},
+            {"role": "user", "content": "How long is the 15 Days Plus package valid?"},
+            {"role": "user", "content": "What is the validity period of the 15 Days Plus package?"},
+            {"role": "user", "content": "For how many days does the 15 Days Plus package remain active?"},
+            {"role": "assistant", "content": "The 15 Days Plus package is valid for 15 days from the date of subscription. Subscribers will be notified once the package expires."}
+        ]
+    }
+]

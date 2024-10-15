@@ -1,0 +1,20 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing support for promotional offers."},
+            {"role": "user", "content": "My number was inactive for two months, and I haven’t received the SIM lagao offer?"},
+            {"role": "user", "content": "Why didn't I get the SIM Lagao offer after my number was inactive?"},
+            {"role": "user", "content": "What should I do if I didn't get the SIM Lagao offer for my inactive number?"},
+            {"role": "assistant", "content": "Reactivate your inactive SIM with the SIM Lagao Offer by calling 2222 or write 'free' and send SMS to 2222. You can also call helpline 345 or UAN Number 042 111345100 for more details. More information is available here: https://www.telenor.com.pk/personal/telenor/offers/sim-lagao-offer/"}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing support for promotional offers."},
+            {"role": "user", "content": "Is my number included in the ‘Sim Lagao’ offer or not?"},
+            {"role": "user", "content": "How can I check if my number is eligible for the Sim Lagao offer?"},
+            {"role": "user", "content": "Can you tell me if my SIM qualifies for the Sim Lagao offer?"},
+            {"role": "assistant", "content": "If you have not used your Telenor SIM in more than 60 days, reactivate it with SIM Lagao Offer. If you want to check your SIM eligibility for the offer, please call with the same number on 2222 or write 'free' and send SMS to 2222. More information is available here: https://www.telenor.com.pk/personal/telenor/offers/sim-lagao-offer/"}
+        ]
+    }
+]

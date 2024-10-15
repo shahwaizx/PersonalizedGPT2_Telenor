@@ -1,0 +1,44 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing support for the 4G Weekly Ultra package."},
+            {"role": "user", "content": "What does the 4G Weekly Ultra package include?"},
+            {"role": "user", "content": "Can you tell me about the 4G Weekly Ultra offer?"},
+            {"role": "user", "content": "What are the benefits of the 4G Weekly Ultra package?"},
+            {"role": "assistant", "content": "The 4G Weekly Ultra package offers 8GB of internet and 100 all-net minutes for Rs. 200, including taxes. This package is valid for 7 days from the date of subscription."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on how to subscribe to the 4G Weekly Ultra package."},
+            {"role": "user", "content": "How can I subscribe to the 4G Weekly Ultra package?"},
+            {"role": "user", "content": "What's the code to activate the 4G Weekly Ultra offer?"},
+            {"role": "user", "content": "Tell me how to get the 4G Weekly Ultra package."},
+            {"role": "assistant", "content": "You can subscribe to the 4G Weekly Ultra package by dialing *336# from your Telenor number."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing support for issues related to package resources."},
+            {"role": "user", "content": "What happens if I use up my 4G Weekly Ultra data before the week is over?"},
+            {"role": "user", "content": "If my 4G Weekly Ultra data runs out early, what will I be charged?"},
+            {"role": "assistant", "content": "If you use up all the data in your 4G Weekly Ultra package before the 7 days are up, you will be charged Rs 1 per MB until the package expires."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing details on package renewals."},
+            {"role": "user", "content": "Does the 4G Weekly Ultra package renew automatically?"},
+            {"role": "user", "content": "Will my 4G Weekly Ultra automatically renew?"},
+            {"role": "assistant", "content": "No, the 4G Weekly Ultra package does not renew automatically. You must manually subscribe again once it expires to continue using the services."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on multiple subscriptions."},
+            {"role": "user", "content": "Can I subscribe to the 4G Weekly Ultra package more than once in a week?"},
+            {"role": "user", "content": "Is it possible to activate the 4G Weekly Ultra package multiple times within its validity period?"},
+            {"role": "assistant", "content": "Yes, you can subscribe to the 4G Weekly Ultra package multiple times within the 7-day validity period. However, the resources and their validity from each subscription are maintained separately and do not combine."}
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the UAE Offer."},
+            {"role": "user", "content": "What is the rate for calling UAE with Telenor?"},
+            {"role": "user", "content": "How much does it cost to call UAE with Telenor?"},
+            {"role": "assistant", "content": "The rate for calling any number in UAE is Rs. 15.06 per 20 seconds, plus tax."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the UAE Offer."},
+            {"role": "user", "content": "How do I make a call to UAE using this offer?"},
+            {"role": "user", "content": "What is the process to call UAE with Telenor?"},
+            {"role": "assistant", "content": "To make a call to UAE, dial 111 before the desired landline or mobile number, e.g., 0097xxxxxx."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the UAE Offer."},
+            {"role": "user", "content": "What is the validity of the UAE Offer?"},
+            {"role": "user", "content": "How long is the UAE Offer valid?"},
+            {"role": "assistant", "content": "The offer is valid 24 hours a day."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the UAE Offer."},
+            {"role": "user", "content": "What are the terms and conditions for the UAE Offer?"},
+            {"role": "user", "content": "Can you provide details about the terms and conditions for calling UAE with Telenor?"}
+        ]
+    }
+]

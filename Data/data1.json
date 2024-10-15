@@ -1,0 +1,101 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about SIM issues related to tax filing."},
+            {"role": "user", "content": "I filed my taxes but my SIM is still blocked. What do I do?"},
+            {"role": "user", "content": "Why's my SIM still blocked after tax filing?"},
+            {"role": "user", "content": "Filed taxes but SIM blocked, help?"},
+            {"role": "assistant", "content": "If your SIM is still blocked despite filing your tax, contact the FBR and your service provider with proof of tax filing to resolve the issue."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about SIM issues related to tax filing."},
+            {"role": "user", "content": "How do I know if my SIM block is due to tax issues?"},
+            {"role": "user", "content": "Signs my SIM is blocked for tax reasons?"},
+            {"role": "user", "content": "Tax issue blocked my SIM, how to confirm?"},
+            {"role": "assistant", "content": "You should receive a notification from your service provider before blocking."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about SIM issues related to tax filing."},
+            {"role": "user", "content": "Will all my SIMs be blocked if I don't file tax?"},
+            {"role": "user", "content": "Do all SIMs get blocked for not filing tax?"},
+            {"role": "user", "content": "If I miss tax filing, are all SIMs under my CNIC blocked?"},
+            {"role": "assistant", "content": "Yes, all SIMs registered against your CNIC will be blocked if you fail to file your tax."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about SIM issues related to tax filing."},
+            {"role": "user", "content": "How can I unblock my SIM?"},
+            {"role": "user", "content": "Steps to reactivate my blocked SIM?"},
+            {"role": "user", "content": "Blocked SIM, how to unblock?"},
+            {"role": "assistant", "content": "You will need to file your taxes to get your SIM unblocked or change ownership of the SIM from the closest Telenor Pakistan franchise to a filer CNIC."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about SIM issues related to tax filing."},
+            {"role": "user", "content": "What if I don't file my taxes?"},
+            {"role": "user", "content": "What happens if taxes aren't filed?"},
+            {"role": "user", "content": "Consequences of not filing tax?"},
+            {"role": "assistant", "content": "Your number against your non-filer CNIC shall remain blocked till tax is not filed."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about SIM issues related to tax filing."},
+            {"role": "user", "content": "Can I use my SIM for emergencies if it's blocked?"},
+            {"role": "user", "content": "Emergency calls with a blocked SIM, possible?"},
+            {"role": "user", "content": "Blocked SIM, can I still make emergency calls?"},
+            {"role": "assistant", "content": "No, all incoming and outgoing services are blocked. You can however call the Telenor helpline for further guidance (Charges Rs. 2.3+ tax per minute)."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about SIM issues related to tax filing."},
+            {"role": "user", "content": "How fast does my SIM get unblocked after I file my taxes?"},
+            {"role": "user", "content": "After tax filing, how soon is SIM unblocked?"},
+            {"role": "user", "content": "Timeline for SIM unblock post tax filing?"},
+            {"role": "assistant", "content": "Your SIM will be unblocked as soon as FBR shares your filing confirmation with Telenor Pakistan."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about SIM issues related to tax filing."},
+            {"role": "user", "content": "What documents are needed to file my taxes?"},
+            {"role": "user", "content": "Needed docs for tax filing?"},
+            {"role": "user", "content": "Documents to prepare for tax filing?"},
+            {"role": "assistant", "content": "You will need your CNIC, income details, bank statements, and any other relevant financial documents."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about SIM issues related to tax filing."},
+            {"role": "user", "content": "How can I file my taxes?"},
+            {"role": "user", "content": "Steps to file my taxes online?"},
+            {"role": "user", "content": "Tax filing process, how to start?"},
+            {"role": "assistant", "content": "You can file your tax on FBR’s e-portal iris.fbr.gov.pk or call FBR helpline 051111772772 for further assistance."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about SIM issues related to tax filing."},
+            {"role": "user", "content": "How do I unblock my number after tax filing?"},
+            {"role": "user", "content": "Steps to unblock my number post tax filing?"},
+            {"role": "user", "content": "Unblock number after tax file, how?"},
+            {"role": "assistant", "content": "Your number will be unblocked after you have filed the tax and Telenor Pakistan has received confirmation for unblocking your number from FBR."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about SIM issues related to tax filing."},
+            {"role": "user", "content": "Why is my number blocked?"},
+            {"role": "user", "content": "Reason my number is blocked?"},
+            {"role": "user", "content": "Why would they block my number?"},
+            {"role": "assistant", "content": "As per the FBR records, it is indicated that you have not filed your taxes for Year 2023. On the directives of FBR, non-filer customers mobile numbers will be blocked till they don’t file their taxes."}
+        ]
+    }
+]

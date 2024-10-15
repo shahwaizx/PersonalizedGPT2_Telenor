@@ -1,0 +1,33 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the USA, Canada, and UK Offer."},
+            {"role": "user", "content": "What is the rate for calling the USA, Canada, or UK with Telenor?"},
+            {"role": "user", "content": "How much does it cost to call USA, Canada, or UK with Telenor?"},
+            {"role": "assistant", "content": "The rate for calling any landline or mobile number in the USA, Canada, or a landline number in the UK is Rs. 4.99 per 15 minutes."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the USA, Canada, and UK Offer."},
+            {"role": "user", "content": "How do I make a call to the USA, Canada, or UK using this offer?"},
+            {"role": "user", "content": "What is the process to call the USA, Canada, or UK with Telenor?"},
+            {"role": "assistant", "content": "To make a call to the USA or Canada, or a landline in the UK, dial 999 before the desired number."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the USA, Canada, and UK Offer."},
+            {"role": "user", "content": "What is the validity of the USA, Canada, and UK Offer?"},
+            {"role": "user", "content": "How long is the USA, Canada, and UK Offer valid?"},
+            {"role": "assistant", "content": "The offer is valid 24 hours a day."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the USA, Canada, and UK Offer."},
+            {"role": "user", "content": "What are the terms and conditions for the USA, Canada, and UK Offer?"},
+            {"role": "user", "content": "Can you provide details about the terms and conditions for calling the USA, Canada, or UK with Telenor?"}
+        ]
+    }
+]

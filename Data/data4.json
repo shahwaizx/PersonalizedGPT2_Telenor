@@ -1,0 +1,29 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about postpaid services."},
+            {"role": "user", "content": "How can I get Telenor Postpaid security deposit back?"},
+            {"role": "user", "content": "What's the procedure to retrieve my postpaid security deposit?"},
+            {"role": "user", "content": "Can I reclaim my Telenor postpaid security deposit and how?"},
+            {"role": "assistant", "content": "Visit our nearest franchise along with your original CNIC for assistance on Telenor Postpaid security deposit."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about postpaid services."},
+            {"role": "user", "content": "What is the best add-on for Telenor Postpaid?"},
+            {"role": "user", "content": "Which add-on should I choose for my Telenor postpaid?"},
+            {"role": "user", "content": "Recommend a good Telenor postpaid add-on."},
+            {"role": "assistant", "content": "The recommended add-on for Telenor Postpaid is Data Bolt 450. You can find more details about the add-on here: https://www.telenor.com.pk/post-paid/data-bolts-450/"}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about postpaid services."},
+            {"role": "user", "content": "What is the best package plan for postpaid?"},
+            {"role": "user", "content": "What's the top postpaid package at Telenor?"},
+            {"role": "user", "content": "Which postpaid plan do you recommend from Telenor?"},
+            {"role": "assistant", "content": "The recommended package plan for Telenor Postpaid is Freedom 420. You can find more details about the package here: https://www.telenor.com.pk/price-plans/freedom-420/"}
+        ]
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the 15 Days Extreme Offer."},
+            {"role": "user", "content": "What does the 15 Days Extreme offer include?"},
+            {"role": "assistant", "content": "The 15 Days Extreme offer includes 130 GB of internet, 7500 Telenor minutes, 400 minutes on other networks, and 7500 SMS. This package costs Rs. 820 and is valid for 15 days. You can subscribe through retailers, the MyTelenor App, or easypaisa by dialing *345*126#."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the 15 Days Extreme Offer."},
+            {"role": "user", "content": "How can I subscribe to the 15 Days Extreme offer?"},
+            {"role": "assistant", "content": "You can subscribe to the 15 Days Extreme offer by dialing *345*126#. The offer is also available through retailers, MyTelenor App, or easypaisa. The cost is Rs. 820 and includes extensive resources valid for 15 days."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the 15 Days Extreme Offer."},
+            {"role": "user", "content": "Who is eligible for the 15 Days Extreme offer?"},
+            {"role": "assistant", "content": "All Telenor Prepaid customers are eligible for the 15 Days Extreme offer. It provides substantial resources to enjoy non-stop streaming, surfing, chatting, and calling without the need for frequent recharges."}
+        ]
+    }
+]

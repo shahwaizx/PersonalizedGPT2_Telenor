@@ -1,0 +1,38 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Telenor Value Package."},
+            {"role": "user", "content": "What does the Telenor Value Package offer include?"},
+            {"role": "user", "content": "Can you tell me what's included in the Telenor Value Package?"},
+            {"role": "user", "content": "What are the benefits of the Telenor Value Package?"},
+            {"role": "assistant", "content": "The Telenor Value Package offers calls to all networks and PTCL at Rs. 2.93 + tax per minute, internet usage at Rs. 2.00 per 512kb + tax, and SMS at Rs. 1.80 + tax. Video calls cost Rs. 2.39 per 5 minutes + tax. The package also includes free call waiting and an option for conference calling upon subscription."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Telenor Value Package."},
+            {"role": "user", "content": "How are calls charged in the Telenor Value Package?"},
+            {"role": "user", "content": "What are the call rates for the Telenor Value Package?"},
+            {"role": "user", "content": "Can you explain the call charges in the Telenor Value plan?"},
+            {"role": "assistant", "content": "In the Telenor Value Package, calls to all networks including PTCL are charged at Rs. 2.93 + tax per minute. Video calls are charged at Rs. 2.39 for every 5 minutes + tax."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Telenor Value Package."},
+            {"role": "user", "content": "What are the SMS and internet rates in the Telenor Value Package?"},
+            {"role": "user", "content": "How much does SMS and internet cost in the Telenor Value Package?"},
+            {"role": "user", "content": "What are the charges for SMS and internet under the Telenor Value plan?"},
+            {"role": "assistant", "content": "In the Telenor Value Package, outgoing SMS are charged at Rs. 1.80 + tax and international SMS at Rs. 5.97 + tax. Internet usage is charged at Rs. 2.00 per 512kb + tax across 2G, 3G, and 4G networks."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Telenor Value Package."},
+            {"role": "user", "content": "What free services are included in the Telenor Value Package?"},
+            {"role": "user", "content": "Does the Telenor Value plan offer any free services?"},
+            {"role": "user", "content": "Are there any complimentary services with the Telenor Value package?"},
+            {"role": "assistant", "content": "The Telenor Value Package includes free services such as Call Waiting and the option to subscribe to Conference Calling."}
+        ]
+    }
+]

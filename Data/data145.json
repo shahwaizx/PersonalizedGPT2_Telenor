@@ -1,0 +1,47 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Daily SMS Bundle package."},
+            {"role": "user", "content": "What does the Daily SMS Bundle include?"},
+            {"role": "user", "content": "Can you tell me the benefits of the Daily SMS Bundle?"},
+            {"role": "user", "content": "What resources are provided in the Daily SMS Bundle?"},
+            {"role": "assistant", "content": "The Daily SMS Bundle includes 240 SMS and is priced at Rs. 4.78 including tax. It is valid for 1 day."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Daily SMS Bundle package."},
+            {"role": "user", "content": "How can I activate the Daily SMS Bundle?"},
+            {"role": "user", "content": "What is the process to subscribe to the Daily SMS Bundle?"},
+            {"role": "user", "content": "How do I get the Daily SMS Bundle?"},
+            {"role": "assistant", "content": "To activate the Daily SMS Bundle, dial *345*116# or use the My Telenor App. Confirm your mobile number if prompted. The bundle will provide 240 SMS for 1 day."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Daily SMS Bundle package."},
+            {"role": "user", "content": "Who can subscribe to the Daily SMS Bundle?"},
+            {"role": "user", "content": "Can all Telenor customers avail the Daily SMS Bundle?"},
+            {"role": "user", "content": "What are the eligibility criteria for the Daily SMS Bundle?"},
+            {"role": "assistant", "content": "All Telenor subscribers are eligible for the Daily SMS Bundle. It can be activated by dialing *345*116# or through the My Telenor App."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Daily SMS Bundle package."},
+            {"role": "user", "content": "How long is the Daily SMS Bundle valid?"},
+            {"role": "user", "content": "What is the validity period for the Daily SMS Bundle?"},
+            {"role": "user", "content": "For how many days does the Daily SMS Bundle remain active?"},
+            {"role": "assistant", "content": "The Daily SMS Bundle is valid for 1 day from the date of activation."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Daily SMS Bundle package."},
+            {"role": "user", "content": "How can I check my free SMS balance?"},
+            {"role": "user", "content": "What is the process to check my remaining SMS balance?"},
+            {"role": "user", "content": "How do I find out how many SMS I have left?"},
+            {"role": "assistant", "content": "To check your free SMS balance, dial *111# (charges Rs. 0.24) after subscribing to the Daily SMS Bundle."}
+        ]
+    }
+]

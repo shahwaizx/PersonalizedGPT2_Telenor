@@ -1,0 +1,20 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing support for tax certificate inquiries."},
+            {"role": "user", "content": "Can I get my previous year tax certificate from my Telenor app?"},
+            {"role": "user", "content": "Is it possible to retrieve last year's tax certificate through the Telenor app?"},
+            {"role": "user", "content": "How do I access my previous year’s tax certificate on the Telenor app?"},
+            {"role": "assistant", "content": "You can get your last three-year tax certificate from My Telenor app."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing support for tax certificate inquiries."},
+            {"role": "user", "content": "How can I get my Telenor tax certificate?"},
+            {"role": "user", "content": "What steps do I follow to obtain my tax certificate from Telenor?"},
+            {"role": "user", "content": "Where can I request my Telenor tax certificate?"},
+            {"role": "assistant", "content": "You can get your tax certificate from My Telenor app or by requesting for it via our helpline (345, UAN number 042111345100) or email us at telenor345@telenor.com.pk."}
+        ]
+    }
+]

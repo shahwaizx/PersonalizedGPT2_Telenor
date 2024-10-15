@@ -1,0 +1,23 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the 15 Days Plus Offer."},
+            {"role": "user", "content": "What does the 15 Days Plus offer include?"},
+            {"role": "assistant", "content": "The 15 Days Plus offer includes 5 GB of internet, 3500 Telenor minutes, 200 minutes to other networks, and 3500 SMS. It's available for Rs. 350, valid for 15 days, and can be subscribed through easypaisa."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the 15 Days Plus Offer."},
+            {"role": "user", "content": "How can I subscribe to the 15 Days Plus offer?"},
+            {"role": "assistant", "content": "You can subscribe to the 15 Days Plus offer exclusively through easypaisa. It costs Rs. 350 and provides 5 GB of internet, 3500 on-net minutes, 200 off-net minutes, and 3500 SMS for 15 days."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the 15 Days Plus Offer."},
+            {"role": "user", "content": "Is everyone eligible for the 15 Days Plus offer?"},
+            {"role": "assistant", "content": "Yes, all Telenor Prepaid customers are eligible for the 15 Days Plus offer. It provides a comprehensive set of resources suitable for moderate to high usage over 15 days, ensuring you stay connected with minimal need for frequent recharges."}
+        ]
+    }
+]

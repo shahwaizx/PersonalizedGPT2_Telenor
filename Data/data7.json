@@ -1,0 +1,20 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing support for SIM count issues."},
+            {"role": "user", "content": "How to fix the wrong SIM count against my CNIC?"},
+            {"role": "user", "content": "What can I do if my CNIC shows incorrect SIM counts?"},
+            {"role": "user", "content": "Incorrect SIM count on my CNIC, how to correct it?"},
+            {"role": "assistant", "content": "Kindly contact the networks which are displaying an incorrect count for your SIM cards by calling the relevant operator and initiating a request for SIM count correction."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing support for SIM count issues."},
+            {"role": "user", "content": "How to check SIM count against my CNIC?"},
+            {"role": "user", "content": "What's the way to verify how many SIMs are registered on my CNIC?"},
+            {"role": "user", "content": "How do I find out the number of SIMs issued against my CNIC?"},
+            {"role": "assistant", "content": "Send an SMS with your CNIC number (without space and dash) to 668; or call our helpline on 345 or UAN 042111345100 for SIM count inquiries."}
+        ]
+    }
+]

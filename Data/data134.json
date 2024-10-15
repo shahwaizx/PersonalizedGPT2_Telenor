@@ -1,0 +1,38 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Mahana Budget Package."},
+            {"role": "user", "content": "What does the Mahana Budget Package include?"},
+            {"role": "user", "content": "Can you tell me what's offered in the Mahana Budget Package?"},
+            {"role": "user", "content": "What are the benefits of the Telenor Mahana Budget Package?"},
+            {"role": "assistant", "content": "The Mahana Budget Package includes 3GB for WhatsApp, 300 on-net minutes, and 10 off-net minutes for Rs. 120 including tax. The package is valid for 30 days and can be activated by dialing *514#."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Mahana Budget Package."},
+            {"role": "user", "content": "How can I activate the Mahana Budget Package?"},
+            {"role": "user", "content": "What is the method to subscribe to the Mahana Budget Package?"},
+            {"role": "user", "content": "How do I get the Mahana Budget Package?"},
+            {"role": "assistant", "content": "You can activate the Mahana Budget Package by dialing *514#. The package offers 3GB for WhatsApp, 300 on-net minutes, and 10 off-net minutes for 30 days."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Mahana Budget Package."},
+            {"role": "user", "content": "Who is eligible for the Mahana Budget Package?"},
+            {"role": "user", "content": "Can all Telenor customers subscribe to the Mahana Budget Package?"},
+            {"role": "user", "content": "What are the eligibility criteria for the Mahana Budget Package?"},
+            {"role": "assistant", "content": "All Telenor GSM Prepaid customers are eligible for the Mahana Budget Package."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Mahana Budget Package."},
+            {"role": "user", "content": "How long is the Mahana Budget Package valid?"},
+            {"role": "user", "content": "What is the validity period of the Mahana Budget Package?"},
+            {"role": "user", "content": "For how many days does the Mahana Budget Package remain active?"},
+            {"role": "assistant", "content": "The Mahana Budget Package is valid for 30 days from the date of subscription. Subscribers will receive 3GB for WhatsApp, 300 on-net minutes, and 10 off-net minutes during this period."}
+        ]
+    }
+]

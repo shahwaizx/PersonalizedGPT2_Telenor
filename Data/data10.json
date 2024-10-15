@@ -1,0 +1,74 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing support for international roaming inquiries."},
+            {"role": "user", "content": "How can I check if international roaming is active on my number?"},
+            {"role": "user", "content": "How do I know if my international roaming is turned on?"},
+            {"role": "user", "content": "Is international roaming active on my phone?"},
+            {"role": "assistant", "content": "Please contact our helpline on 345 or UAN 042111345100 to check if international roaming is active on your number."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on International Direct Dialing (IDD) rates."},
+            {"role": "user", "content": "How can I check International Direct Dialing (IDD) call rates?"},
+            {"role": "user", "content": "Where can I find rates for IDD calls?"},
+            {"role": "user", "content": "What are the IDD call rates with Telenor?"},
+            {"role": "assistant", "content": "Please visit our website https://www.telenor.com.pk/telenor-international-direct-dialing/ for international call rates."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing support for international roaming issues."},
+            {"role": "user", "content": "How can I resolve incoming SMS issue while using international roaming?"},
+            {"role": "user", "content": "What to do if I'm not getting SMS while roaming internationally?"},
+            {"role": "user", "content": "Trouble receiving SMS abroad, how to fix?"},
+            {"role": "assistant", "content": "Find the network selection option in mobile network settings; manual network selection option should be active from where you can change the available network one-by-one until the signals appear. If the issue persists, kindly log a complaint from My Telenor App."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing support for international roaming issues."},
+            {"role": "user", "content": "How can I resolve the no network issue while using international roaming?"},
+            {"role": "user", "content": "I have no service while roaming, what should I do?"},
+            {"role": "user", "content": "No network on international roaming, how to connect?"},
+            {"role": "assistant", "content": "Find the network selection option in mobile network settings; manual network selection option should be active from where you can change the available network one-by-one until the signals appear. If the issue persists, kindly log a complaint from My Telenor App."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing support for international roaming issues."},
+            {"role": "user", "content": "What should I do if I am unable to make or receive calls while roaming?"},
+            {"role": "user", "content": "Can't make calls while abroad, any tips?"},
+            {"role": "user", "content": "Troubleshooting call issues while on international roaming?"},
+            {"role": "assistant", "content": "If signals are available, first check your credit balance (*444#). If the issue persists, change the operator manually or change the handset. If the problem persists, log a complaint on My Telenor or connect with our live chat at https://www.telenor.com.pk/chat/."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing support for international roaming services."},
+            {"role": "user", "content": "How can I activate international roaming for my postpaid connection?"},
+            {"role": "user", "content": "Activating international roaming on postpaid, how?"},
+            {"role": "user", "content": "Steps to turn on international roaming for postpaid?"},
+            {"role": "assistant", "content": "To activate international roaming, please dial *759# or call our helpline 345 (UAN 042 111 345 100) or visit our nearest franchise."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing support for international roaming services."},
+            {"role": "user", "content": "How can I activate international roaming bundles?"},
+            {"role": "user", "content": "How to subscribe to international roaming bundles?"},
+            {"role": "user", "content": "Procedure for activating international roaming bundles?"},
+            {"role": "assistant", "content": "Dial *759# to activate international roaming bundles."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing support for international roaming services."},
+            {"role": "user", "content": "How can I activate international roaming for my prepaid connection?"},
+            {"role": "user", "content": "What's the process to enable international roaming on prepaid?"},
+            {"role": "user", "content": "Activating international roaming on my prepaid phone, how?"},
+            {"role": "assistant", "content": "Dial *759# and press 1 to activate international roaming."}
+        ]
+    }
+]

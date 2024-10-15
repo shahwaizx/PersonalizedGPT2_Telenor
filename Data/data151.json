@@ -1,0 +1,47 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Afghanistan Offer."},
+            {"role": "user", "content": "What is the Afghanistan Offer about?"},
+            {"role": "user", "content": "Can you tell me more about the Afghanistan Offer?"},
+            {"role": "user", "content": "What does the Afghanistan Offer include?"},
+            {"role": "assistant", "content": "The Afghanistan Offer allows you to make calls to any number in Afghanistan at a rate of Rs. 14 per 20 seconds. There are no subscription fees or hidden charges."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Afghanistan Offer."},
+            {"role": "user", "content": "How can I use the Afghanistan Offer?"},
+            {"role": "user", "content": "What is the process to make calls under the Afghanistan Offer?"},
+            {"role": "user", "content": "How do I activate the Afghanistan Offer?"},
+            {"role": "assistant", "content": "To use the Afghanistan Offer, dial 111 before your desired landline or mobile number in Afghanistan. For example, dial 1110093xxxxxx."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Afghanistan Offer."},
+            {"role": "user", "content": "Who can avail the Afghanistan Offer?"},
+            {"role": "user", "content": "Is the Afghanistan Offer available for all Telenor subscribers?"},
+            {"role": "user", "content": "What are the eligibility criteria for the Afghanistan Offer?"},
+            {"role": "assistant", "content": "All Telenor prepaid subscribers are eligible for the Afghanistan Offer."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Afghanistan Offer."},
+            {"role": "user", "content": "How long is the Afghanistan Offer valid?"},
+            {"role": "user", "content": "What is the validity period for the Afghanistan Offer?"},
+            {"role": "user", "content": "For how long can I use the Afghanistan Offer?"},
+            {"role": "assistant", "content": "The Afghanistan Offer is valid 24 hours a day."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Afghanistan Offer."},
+            {"role": "user", "content": "Are there any additional charges with the Afghanistan Offer?"},
+            {"role": "user", "content": "What about call setup charges for the Afghanistan Offer?"},
+            {"role": "user", "content": "Are there any extra fees or charges with the Afghanistan Offer?"},
+            {"role": "assistant", "content": "Call setup charges of 1.25 paisa + tax apply. The offer's price and mechanics are subject to change, and Telenor reserves the right to withdraw the offer at any time."}
+        ]
+    }
+]

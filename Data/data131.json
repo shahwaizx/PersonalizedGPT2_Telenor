@@ -1,0 +1,38 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Weekly EasyCard Mega package."},
+            {"role": "user", "content": "What does the Weekly EasyCard Mega package include?"},
+            {"role": "user", "content": "Can you tell me what's offered in the Weekly EasyCard Mega package?"},
+            {"role": "user", "content": "What are the benefits of the Telenor Weekly EasyCard Mega package?"},
+            {"role": "assistant", "content": "The Weekly EasyCard Mega package offers 8000MB of internet (including 4000MB from 1AM to 11AM), 2000 Telenor+PTCL minutes, 85 offnet minutes, and 1000 SMS for Rs. 235 including tax. The package is valid for 7 days and can be activated by dialing *001# or availed from the nearest retailer for Rs. 270 load."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Weekly EasyCard Mega package."},
+            {"role": "user", "content": "How can I activate the Weekly EasyCard Mega package?"},
+            {"role": "user", "content": "What is the method to subscribe to the Weekly EasyCard Mega package?"},
+            {"role": "user", "content": "How do I get the Weekly EasyCard Mega package?"},
+            {"role": "assistant", "content": "You can activate the Weekly EasyCard Mega package by dialing *001#. It can also be availed from the nearest retailer for Rs. 270 load."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Weekly EasyCard Mega package."},
+            {"role": "user", "content": "Who is eligible for the Weekly EasyCard Mega package?"},
+            {"role": "user", "content": "Can all Telenor customers subscribe to the Weekly EasyCard Mega package?"},
+            {"role": "user", "content": "What are the eligibility criteria for the Weekly EasyCard Mega package?"},
+            {"role": "assistant", "content": "All Telenor Prepaid customers are eligible for the Weekly EasyCard Mega offer."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Weekly EasyCard Mega package."},
+            {"role": "user", "content": "How long is the Weekly EasyCard Mega package valid?"},
+            {"role": "user", "content": "What is the validity period of the Weekly EasyCard Mega package?"},
+            {"role": "user", "content": "For how many days does the Weekly EasyCard Mega package remain active?"},
+            {"role": "assistant", "content": "The Weekly EasyCard Mega package is valid for 7 days from the date of subscription. Subscribers will be notified when the package expires at midnight."}
+        ]
+    }
+]

@@ -1,0 +1,9 @@
+{
+    "messages": [
+        {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing support for career inquiries."},
+        {"role": "user", "content": "What are the main steps required to get a job at Telenor Pakistan?"},
+        {"role": "user", "content": "How can I apply for a job at Telenor Pakistan?"},
+        {"role": "user", "content": "Can you guide me through Telenor Pakistan's hiring process?"},
+        {"role": "assistant", "content": "The following are your stepping stones for becoming a part of the Telenor family: 1. Create a Profile – Fill in all your details so we can find you. 2. Research – What area interests you? Find out more by looking at our roles and responsibilities. 3. Apply Online – Search for current openings and apply. 4. Interviews: Either phone, face-to-face, or Skype based. 5. Screening: Pre-employment verification of job history and criminal record. 6. Offer: Our highly trained recruiters will send you an offer if you fit the position. 7. Onboarding: You are now part of the Telenor Family."}
+    ]
+}

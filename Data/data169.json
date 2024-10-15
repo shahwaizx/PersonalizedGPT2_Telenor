@@ -1,0 +1,23 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the 7 Day Hybrid Offer."},
+            {"role": "user", "content": "What does the 7 Day Hybrid offer include?"},
+            {"role": "assistant", "content": "The 7 Day Hybrid offer includes 3000 MBs of internet, 1500 Telenor & PTCL minutes, 80 minutes to other networks, and 1500 SMS for Rs. 87 incl. tax. It's valid for 7 days from the subscription date. You can subscribe by dialing *345*79#."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the 7 Day Hybrid Offer."},
+            {"role": "user", "content": "How can I subscribe to the 7 Day Hybrid offer?"},
+            {"role": "assistant", "content": "You can subscribe to the 7 Day Hybrid offer by dialing *345*79#. The offer costs Rs. 87 and provides 3000 MBs, 1500 on-net minutes, 80 off-net minutes, and 1500 SMS, valid for 7 days."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the 7 Day Hybrid Offer."},
+            {"role": "user", "content": "Who is eligible for the 7 Day Hybrid offer?"},
+            {"role": "assistant", "content": "All Telenor Prepaid customers are eligible for the 7 Day Hybrid offer, especially those who have joined the network within the last 90 days. This offer includes internet, on-net and off-net minutes, and SMS, valid for 7 days."}
+        ]
+    }
+]

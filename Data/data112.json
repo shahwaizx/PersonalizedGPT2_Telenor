@@ -1,0 +1,38 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Weekly EasyCard."},
+            {"role": "user", "content": "What does the Weekly EasyCard offer include?"},
+            {"role": "user", "content": "Can you tell me what's included in the Weekly EasyCard package?"},
+            {"role": "user", "content": "What are the benefits of the Telenor Weekly EasyCard?"},
+            {"role": "assistant", "content": "The Weekly EasyCard offers 4GB internet (2GB regular + 2GB from 1am-9am), 1500 Telenor & PTCL minutes, 80 offnet minutes, and 2000 SMS. It's valid for 7 days and available for Rs. 200 inclusive of tax. You can activate this offer through the Easypaisa App and Retailer Menu."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Weekly EasyCard."},
+            {"role": "user", "content": "How can I activate the Weekly EasyCard?"},
+            {"role": "user", "content": "What are the ways to subscribe to the Weekly EasyCard?"},
+            {"role": "user", "content": "How do I get started with Telenor's Weekly EasyCard?"},
+            {"role": "assistant", "content": "The Weekly EasyCard can currently be activated through the Easypaisa App and Retailer Menu. It offers a comprehensive bundle for Rs. 200, valid for 7 days."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Weekly EasyCard."},
+            {"role": "user", "content": "Who is eligible for the Weekly EasyCard?"},
+            {"role": "user", "content": "Can anyone subscribe to the Weekly EasyCard?"},
+            {"role": "user", "content": "What are the eligibility requirements for the Weekly EasyCard?"},
+            {"role": "assistant", "content": "All Telenor Prepaid customers are eligible for the Weekly EasyCard offer."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Weekly EasyCard."},
+            {"role": "user", "content": "How long does the Weekly EasyCard last?"},
+            {"role": "user", "content": "What is the validity period of the Weekly EasyCard?"},
+            {"role": "user", "content": "For how long is the Weekly EasyCard valid after activation?"},
+            {"role": "assistant", "content": "The Weekly EasyCard is valid for 7 days from the subscription date. Subscribers will be informed once the package expires."}
+        ]
+    }
+]

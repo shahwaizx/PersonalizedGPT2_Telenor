@@ -1,0 +1,38 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing support for tax-related inquiries."},
+            {"role": "user", "content": "How does location affect the tax charged on my recharge or usage?"},
+            {"role": "user", "content": "What role does my location play in the taxes charged on my phone usage?"},
+            {"role": "user", "content": "Can my location change the amount of tax I pay on my Telenor account?"},
+            {"role": "assistant", "content": "Tax will be charged based upon the location of the tower from where the customer is catching signals. Customers at the boundary of a region may be charged differently in this scenario irrespective of their own physical location. If a customer recharges via EasyLoad and their phone is off, then location will not be available for such customer and a default tax of 12.5% WHT and 19.5% FED will be charged."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing support for tax-related inquiries."},
+            {"role": "user", "content": "Will regional based taxation apply on any bundles?"},
+            {"role": "user", "content": "Does regional taxation affect bundle prices?"},
+            {"role": "user", "content": "Are bundles subject to regional tax variations?"},
+            {"role": "assistant", "content": "No, regional taxation is only applied on non-bundle Voice & SMS on the basis of usage."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing support for tax-related inquiries."},
+            {"role": "user", "content": "How will the network identify customer’s region?"},
+            {"role": "user", "content": "What method does the network use to determine my region for taxation?"},
+            {"role": "user", "content": "How does Telenor figure out which region I am in for tax purposes?"},
+            {"role": "assistant", "content": "Network would identify customer’s region through the tower from where the customer is catching signals."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing support for tax-related inquiries."},
+            {"role": "user", "content": "What is region based taxation?"},
+            {"role": "user", "content": "Could you explain what region based taxation means?"},
+            {"role": "user", "content": "What does region based taxation entail at Telenor?"},
+            {"role": "assistant", "content": "Region based taxation means the ratio of FED on voice calls & SMS and WHT (Advance Income Tax) on recharge would be according to the customer’s region from where the call/SMS is initiated or recharge is made."}
+        ]
+    }
+]

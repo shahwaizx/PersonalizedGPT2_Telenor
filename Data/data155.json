@@ -1,0 +1,18 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the International SMS offer."},
+            {"role": "user", "content": "What is the cost of sending an international SMS?"},
+            {"role": "user", "content": "How much does it cost to send an international SMS?"},
+            {"role": "assistant", "content": "Sending an international SMS costs Rs. 29.29 plus tax."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the International SMS offer."},
+            {"role": "user", "content": "What are the terms and conditions for the International SMS offer?"},
+            {"role": "user", "content": "Can you provide details about the terms and conditions for international SMS?"},
+            {"role": "assistant", "content": "The price for sending an international SMS is exclusive of tax. Taxes will be applied as per regional or predefined rates where applicable."}
+        ]
+    }
+]

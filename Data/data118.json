@@ -1,0 +1,29 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Telenor Star package."},
+            {"role": "user", "content": "What are the call rates for the Telenor Star package?"},
+            {"role": "user", "content": "Can you tell me about the calling charges in the Telenor Star plan?"},
+            {"role": "user", "content": "How much does it cost to make calls with the Telenor Star package?"},
+            {"role": "assistant", "content": "The Telenor Star package offers calls to all networks including PTCL at a rate of Rs. 1.46 + tax per 30 seconds."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Telenor Star package."},
+            {"role": "user", "content": "What are the SMS and internet rates in the Telenor Star package?"},
+            {"role": "user", "content": "How much does SMS and internet cost in the Telenor Star package?"},
+            {"role": "user", "content": "What are the charges for SMS and internet under the Telenor Star plan?"},
+            {"role": "assistant", "content": "In the Telenor Star package, outgoing SMS are charged at Rs. 1.80 + tax. Internet usage is charged at Rs. 2.00 per 512KB + tax across 2G, 3G, and 4G networks."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Telenor Star package."},
+            {"role": "user", "content": "What free services are included in the Telenor Star package?"},
+            {"role": "user", "content": "Does the Telenor Star plan offer any free services?"},
+            {"role": "user", "content": "Are there any complimentary services with the Telenor Star package?"},
+            {"role": "assistant", "content": "The Telenor Star package includes free services such as Call Waiting and the option to subscribe to Conference Calling."}
+        ]
+    }
+]

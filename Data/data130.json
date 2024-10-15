@@ -1,0 +1,38 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Weekly Ultimate Offer package."},
+            {"role": "user", "content": "What does the Weekly Ultimate Offer package include?"},
+            {"role": "user", "content": "Can you tell me what's offered in the Weekly Ultimate Offer package?"},
+            {"role": "user", "content": "What are the benefits of the Telenor Weekly Ultimate Offer package?"},
+            {"role": "assistant", "content": "The Weekly Ultimate Offer package includes 80GB of internet, unlimited Telenor minutes, 500 offnet minutes, and 10,000 SMS for Rs. 365 including tax. The package is valid for 7 days and can be activated by dialing *345*69#."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Weekly Ultimate Offer package."},
+            {"role": "user", "content": "How can I activate the Weekly Ultimate Offer package?"},
+            {"role": "user", "content": "What is the method to subscribe to the Weekly Ultimate Offer package?"},
+            {"role": "user", "content": "How do I get the Weekly Ultimate Offer package?"},
+            {"role": "assistant", "content": "You can activate the Weekly Ultimate Offer package by dialing *345*69#. The package is valid for 7 days and provides extensive connectivity features."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Weekly Ultimate Offer package."},
+            {"role": "user", "content": "Who is eligible for the Weekly Ultimate Offer package?"},
+            {"role": "user", "content": "Can all Telenor customers subscribe to the Weekly Ultimate Offer package?"},
+            {"role": "user", "content": "What are the eligibility criteria for the Weekly Ultimate Offer package?"},
+            {"role": "assistant", "content": "All Telenor Prepaid customers are eligible for the Weekly Ultimate Offer."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Weekly Ultimate Offer package."},
+            {"role": "user", "content": "How long is the Weekly Ultimate Offer package valid?"},
+            {"role": "user", "content": "What is the validity period of the Weekly Ultimate Offer package?"},
+            {"role": "user", "content": "For how many days does the Weekly Ultimate Offer package remain active?"},
+            {"role": "assistant", "content": "The Weekly Ultimate Offer package is valid for 7 days from the date of subscription. Subscribers will be notified once the package expires."}
+        ]
+    }
+]

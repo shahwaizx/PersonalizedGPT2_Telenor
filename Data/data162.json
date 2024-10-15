@@ -1,0 +1,33 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Mega Data Bundle for Thailand, Malaysia, Turkey, and Singapore."},
+            {"role": "user", "content": "What is the cost of the Mega Data Bundle for Thailand, Malaysia, Turkey, and Singapore?"},
+            {"role": "user", "content": "How much does the Mega Data Bundle for Thailand, Malaysia, Turkey, and Singapore cost?"},
+            {"role": "assistant", "content": "The Mega Data Bundle for Thailand, Malaysia, Turkey, and Singapore costs Rs. 1499."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Mega Data Bundle for Thailand, Malaysia, Turkey, and Singapore."},
+            {"role": "user", "content": "How do I activate the Mega Data Bundle for Thailand, Malaysia, Turkey, and Singapore?"},
+            {"role": "user", "content": "What is the process to activate the Mega Data Bundle for Thailand, Malaysia, Turkey, and Singapore?"},
+            {"role": "assistant", "content": "To activate the Mega Data Bundle, dial *759# (Dial for Free)."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Mega Data Bundle for Thailand, Malaysia, Turkey, and Singapore."},
+            {"role": "user", "content": "What is the validity of the Mega Data Bundle for Thailand, Malaysia, Turkey, and Singapore?"},
+            {"role": "user", "content": "How long is the Mega Data Bundle valid for Thailand, Malaysia, Turkey, and Singapore?"},
+            {"role": "assistant", "content": "The Mega Data Bundle is valid for 30 days."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Mega Data Bundle for Thailand, Malaysia, Turkey, and Singapore."},
+            {"role": "user", "content": "What are the terms and conditions for the Mega Data Bundle for Thailand, Malaysia, Turkey, and Singapore?"},
+            {"role": "user", "content": "Can you provide details about the terms and conditions for the Mega Data Bundle for Thailand, Malaysia, Turkey, and Singapore?"}
+        ]
+    }
+]

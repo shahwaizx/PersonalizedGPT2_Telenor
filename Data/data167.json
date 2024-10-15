@@ -1,0 +1,23 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the 15 Days Max Offer."},
+            {"role": "user", "content": "What's included in the 15 Days Max offer?"},
+            {"role": "assistant", "content": "The 15 Days Max offer includes 30 GB of internet, 5000 Telenor minutes, 250 minutes on other networks, and 5000 SMS, all for Rs. 650. This package is valid for 15 days and can be subscribed through easypaisa."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the 15 Days Max Offer."},
+            {"role": "user", "content": "How do I subscribe to the 15 Days Max offer?"},
+            {"role": "assistant", "content": "You can subscribe to the 15 Days Max offer through easypaisa. This offer costs Rs. 650 and includes 30 GB of internet, 5000 on-net minutes, 250 off-net minutes, and 5000 SMS, valid for 15 days."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the 15 Days Max Offer."},
+            {"role": "user", "content": "Who can avail the 15 Days Max offer?"},
+            {"role": "assistant", "content": "All Telenor Prepaid customers are eligible for the 15 Days Max offer. It provides comprehensive resources to ensure you stay connected without frequent recharges, ideal for extensive use over 15 days."}
+        ]
+    }
+]

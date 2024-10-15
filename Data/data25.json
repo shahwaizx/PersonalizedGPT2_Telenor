@@ -1,0 +1,176 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing support for the 4G Monthly Lite package."},
+            {"role": "user", "content": "What does the 4G Monthly Lite package include?"},
+            {"role": "user", "content": "Can you tell me about the 4G Monthly Lite offer?"},
+            {"role": "user", "content": "What are the benefits of the 4G Monthly Lite package?"},
+            {"role": "assistant", "content": "The 4G Monthly Lite package offers 30GB of internet plus an additional 30GB free from 1AM to 7AM, for a total of 60GB. The cost is Rs. 1500, and the package is valid for 30 days. This offer is available only for customers on the Telenor Hotspot Prepaid Package."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on how to subscribe to the 4G Monthly Lite package."},
+            {"role": "user", "content": "How can I subscribe to the 4G Monthly Lite package?"},
+            {"role": "user", "content": "What's the code to activate the 4G Monthly Lite offer?"},
+            {"role": "user", "content": "Tell me how to get the 4G Monthly Lite package."},
+            {"role": "assistant", "content": "You can subscribe to the 4G Monthly Lite package by dialing *345*1001# from your Telenor Hotspot Prepaid SIM. Alternatively, you can activate this offer by recharging through Internet Easyload or via Self Service by connecting to your 4G hotspot device interface."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing details on package renewals."},
+            {"role": "user", "content": "Does the 4G Monthly Lite package renew automatically?"},
+            {"role": "user", "content": "Will my 4G Monthly Lite automatically renew?"},
+            {"role": "assistant", "content": "The 4G Monthly Lite package does not renew automatically. You must manually subscribe again once it expires to continue using the services."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on package eligibility."},
+            {"role": "user", "content": "Who is eligible for the 4G Monthly Lite package?"},
+            {"role": "user", "content": "Can anyone subscribe to the 4G Monthly Lite offer?"},
+            {"role": "assistant", "content": "Only customers on the Telenor Hotspot Prepaid Package are eligible for the 4G Monthly Lite package."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing support for the 4G Monthly Smart package."},
+            {"role": "user", "content": "What does the 4G Monthly Smart package include?"},
+            {"role": "user", "content": "Can you tell me about the 4G Monthly Smart offer?"},
+            {"role": "user", "content": "What are the benefits of the 4G Monthly Smart package?"},
+            {"role": "assistant", "content": "The 4G Monthly Smart package offers 75GB of internet plus an additional 75GB free from 1AM to 7AM, totaling 150GB. The cost is Rs. 2500, and the package is valid for 30 days. This offer is exclusively for customers on the Telenor Hotspot Prepaid Package."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on how to subscribe to the 4G Monthly Smart package."},
+            {"role": "user", "content": "How can I subscribe to the 4G Monthly Smart package?"},
+            {"role": "user", "content": "What's the code to activate the 4G Monthly Smart offer?"},
+            {"role": "user", "content": "Tell me how to get the 4G Monthly Smart package."},
+            {"role": "assistant", "content": "You can subscribe to the 4G Monthly Smart package by dialing *345*1002# from your Telenor Hotspot Prepaid SIM. Additionally, you can activate this offer by recharging through Internet Easyload or via Self Service by connecting to your 4G hotspot device interface."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing details on package renewals."},
+            {"role": "user", "content": "Does the 4G Monthly Smart package renew automatically?"},
+            {"role": "user", "content": "Will my 4G Monthly Smart automatically renew?"},
+            {"role": "assistant", "content": "The 4G Monthly Smart package does not renew automatically. You must manually subscribe again once it expires to continue using the services."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on package eligibility."},
+            {"role": "user", "content": "Who is eligible for the 4G Monthly Smart package?"},
+            {"role": "user", "content": "Can anyone subscribe to the 4G Monthly Smart offer?"},
+            {"role": "assistant", "content": "Only customers on the Telenor Hotspot Prepaid Package are eligible for the 4G Monthly Smart package."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing support for the 4G Monthly Value package."},
+            {"role": "user", "content": "What does the 4G Monthly Value package include?"},
+            {"role": "user", "content": "Can you tell me about the 4G Monthly Value offer?"},
+            {"role": "user", "content": "What are the benefits of the 4G Monthly Value package?"},
+            {"role": "assistant", "content": "The 4G Monthly Value package offers 150GB of internet for Rs. 3800. This limited-time offer is valid for 30 days and is exclusively for customers on the Telenor Hotspot Prepaid Package."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on how to subscribe to the 4G Monthly Value package."},
+            {"role": "user", "content": "How can I subscribe to the 4G Monthly Value package?"},
+            {"role": "user", "content": "What's the code to activate the 4G Monthly Value offer?"},
+            {"role": "user", "content": "Tell me how to get the 4G Monthly Value package."},
+            {"role": "assistant", "content": "You can subscribe to the 4G Monthly Value package by dialing *345*1003# from your Telenor Hotspot Prepaid SIM. Additionally, you can activate this offer by recharging through Internet Easyload or via Self Service by connecting to your 4G hotspot device interface."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing details on package renewals."},
+            {"role": "user", "content": "Does the 4G Monthly Value package renew automatically?"},
+            {"role": "user", "content": "Will my 4G Monthly Value automatically renew?"},
+            {"role": "assistant", "content": "The 4G Monthly Value package does not renew automatically. You must manually subscribe again once it expires to continue using the services."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on package eligibility."},
+            {"role": "user", "content": "Who is eligible for the 4G Monthly Value package?"},
+            {"role": "user", "content": "Can anyone subscribe to the 4G Monthly Value offer?"},
+            {"role": "assistant", "content": "Only customers on the Telenor Hotspot Prepaid Package are eligible for the 4G Monthly Value package."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing support for the 4G Monthly Unlimited package."},
+            {"role": "user", "content": "What does the 4G Monthly Unlimited package include?"},
+            {"role": "user", "content": "Can you tell me about the 4G Monthly Unlimited offer?"},
+            {"role": "user", "content": "What are the benefits of the 4G Monthly Unlimited package?"},
+            {"role": "assistant", "content": "The 4G Monthly Unlimited package offers 275GB of internet for Rs. 6000. This package is valid for 30 days and is available exclusively for customers on the Telenor Hotspot Prepaid Package."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on how to subscribe to the 4G Monthly Unlimited package."},
+            {"role": "user", "content": "How can I subscribe to the 4G Monthly Unlimited package?"},
+            {"role": "user", "content": "What's the code to activate the 4G Monthly Unlimited offer?"},
+            {"role": "user", "content": "Tell me how to get the 4G Monthly Unlimited package."},
+            {"role": "assistant", "content": "You can subscribe to the 4G Monthly Unlimited package by dialing *345*1004# from your Telenor Hotspot Prepaid SIM. Additionally, you can activate this offer by recharging through Internet Easyload or via Self Service by connecting to your 4G hotspot device interface."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing details on package renewals."},
+            {"role": "user", "content": "Does the 4G Monthly Unlimited package renew automatically?"},
+            {"role": "user", "content": "Will my 4G Monthly Unlimited automatically renew?"},
+            {"role": "assistant", "content": "The 4G Monthly Unlimited package does not renew automatically. You must manually subscribe again once it expires to continue using the services."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on package eligibility."},
+            {"role": "user", "content": "Who is eligible for the 4G Monthly Unlimited package?"},
+            {"role": "user", "content": "Can anyone subscribe to the 4G Monthly Unlimited offer?"},
+            {"role": "assistant", "content": "Only customers on the Telenor Hotspot Prepaid Package are eligible for the 4G Monthly Unlimited package."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing support for the 4G 3 Month Bundle."},
+            {"role": "user", "content": "What does the 4G 3 Month Bundle include?"},
+            {"role": "user", "content": "Can you tell me about the 4G 3 Month Bundle offer?"},
+            {"role": "user", "content": "What are the benefits of the 4G 3 Month Bundle?"},
+            {"role": "assistant", "content": "The 4G 3 Month Bundle offers a total of 108GB of internet, allocated as 36GB every 30 days for a period of 90 days. The cost is Rs. 4000. This package is exclusively available for customers on the Telenor Hotspot Prepaid Package."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on how to subscribe to the 4G 3 Month Bundle."},
+            {"role": "user", "content": "How can I subscribe to the 4G 3 Month Bundle?"},
+            {"role": "user", "content": "What's the code to activate the 4G 3 Month Bundle offer?"},
+            {"role": "user", "content": "Tell me how to get the 4G 3 Month Bundle."},
+            {"role": "assistant", "content": "You can subscribe to the 4G 3 Month Bundle by dialing *345*1005# from your Telenor Hotspot Prepaid SIM. You can also activate this offer by recharging through Internet Easyload or via Self Service by connecting to your 4G hotspot device interface."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing details on package validity."},
+            {"role": "user", "content": "How long is the 4G 3 Month Bundle valid for?"},
+            {"role": "user", "content": "What's the duration of validity for the 4G 3 Month Bundle?"},
+            {"role": "assistant", "content": "The 4G 3 Month Bundle is valid for 90 days. You receive 36GB of internet every 30 days during this period."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on package eligibility."},
+            {"role": "user", "content": "Who is eligible for the 4G 3 Month Bundle?"},
+            {"role": "user", "content": "Can anyone subscribe to the 4G 3 Month Bundle offer?"},
+            {"role": "assistant", "content": "Only customers on the Telenor Hotspot Prepaid Package are eligible for the 4G 3 Month Bundle."}
+        ]
+    }
+]
+
+
+
+

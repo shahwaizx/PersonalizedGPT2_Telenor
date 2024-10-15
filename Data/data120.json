@@ -1,0 +1,38 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the 15 Days Max package."},
+            {"role": "user", "content": "What does the 15 Days Max package offer include?"},
+            {"role": "user", "content": "Can you tell me what's included in the 15 Days Max package?"},
+            {"role": "user", "content": "What are the benefits of the Telenor 15 Days Max package?"},
+            {"role": "assistant", "content": "The 15 Days Max package offers 30 GB of internet, 5000 Telenor minutes, 250 minutes on other networks, and 5000 SMS for 15 days. The package is priced at Rs. 650 including tax and is available for subscription exclusively through easypaisa."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the 15 Days Max package."},
+            {"role": "user", "content": "How can I subscribe to the 15 Days Max package?"},
+            {"role": "user", "content": "What is the method to activate the 15 Days Max package?"},
+            {"role": "user", "content": "How do I get started with Telenor's 15 Days Max package?"},
+            {"role": "assistant", "content": "You can subscribe to the 15 Days Max package exclusively through the easypaisa application. This offer provides extensive connectivity features for 15 days."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the 15 Days Max package."},
+            {"role": "user", "content": "Who is eligible for the 15 Days Max package?"},
+            {"role": "user", "content": "Can anyone subscribe to the 15 Days Max package?"},
+            {"role": "user", "content": "What are the eligibility requirements for the 15 Days Max package?"},
+            {"role": "assistant", "content": "All Telenor Prepaid customers are eligible for the 15 Days Max offer."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the 15 Days Max package."},
+            {"role": "user", "content": "How long does the 15 Days Max package last?"},
+            {"role": "user", "content": "What is the validity period of the 15 Days Max package?"},
+            {"role": "user", "content": "For how long is the 15 Days Max package valid after activation?"},
+            {"role": "assistant", "content": "The 15 Days Max package is valid for 15 days from the subscription date. Subscribers will be informed once the package expires."}
+        ]
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing support for app-related inquiries."},
+            {"role": "user", "content": "The discounted offer is not showing on MTA?"},
+            {"role": "user", "content": "Why can't I see the discount offer on my Telenor app?"},
+            {"role": "user", "content": "What to do if a promo offer isn't appearing in the My Telenor App?"},
+            {"role": "assistant", "content": "Please update your My Telenor app and check it again. If the issue persists, please contact our helpline 345 (UAN number 042111345100)."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing support for app-related inquiries."},
+            {"role": "user", "content": "I am unable to claim free MBs through MTA, what should I do?"},
+            {"role": "user", "content": "Can't claim free MBs on My Telenor App, how to fix this?"},
+            {"role": "user", "content": "What steps should I take if I'm unable to redeem free MBs in the app?"},
+            {"role": "assistant", "content": "Please update your My Telenor app and check it again. If the issue persists, please contact our helpline 345 (UAN number 042111345100)."}
+        ]
+    }
+]

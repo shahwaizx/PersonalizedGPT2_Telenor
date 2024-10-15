@@ -1,0 +1,36 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing support for the Monthly Starter package."},
+            {"role": "user", "content": "What does the Monthly Starter package include?"},
+            {"role": "user", "content": "Can you tell me about the Monthly Starter offer?"},
+            {"role": "user", "content": "What are the benefits of the Monthly Starter package?"},
+            {"role": "assistant", "content": "The Monthly Starter package offers 15GB of internet for Rs. 750, including taxes. This package is valid for 30 days and is available for customers on the Telenor Connect Prepaid Package using an Internet SIM."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on how to subscribe to the Monthly Starter package."},
+            {"role": "user", "content": "How can I subscribe to the Monthly Starter package?"},
+            {"role": "user", "content": "What's the code to activate the Monthly Starter offer?"},
+            {"role": "user", "content": "Tell me how to get the Monthly Starter package."},
+            {"role": "assistant", "content": "You can subscribe to the Monthly Starter package by dialing *345*2002# from your Telenor Internet SIM. This offer is available only for customers on the Telenor Connect Prepaid Package."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing details on package renewals."},
+            {"role": "user", "content": "Does the Monthly Starter package renew automatically?"},
+            {"role": "user", "content": "Will my Monthly Starter automatically renew?"},
+            {"role": "assistant", "content": "The Monthly Starter package does not renew automatically. You must manually subscribe again once it expires to continue using the services."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on package eligibility."},
+            {"role": "user", "content": "Who is eligible for the Monthly Starter package?"},
+            {"role": "user", "content": "Can anyone subscribe to the Monthly Starter offer?"},
+            {"role": "assistant", "content": "Only customers on the Telenor Connect Prepaid Package who use an Internet SIM are eligible for the Monthly Starter package."}
+        ]
+    }
+]

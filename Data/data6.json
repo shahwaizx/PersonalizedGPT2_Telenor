@@ -1,0 +1,56 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing support for Smart Tunes services."},
+            {"role": "user", "content": "How can I unsubscribe from Telenor Smart Tunes?"},
+            {"role": "user", "content": "What steps to take to stop Telenor Smart Tunes?"},
+            {"role": "user", "content": "How do I cancel my Smart Tune subscription?"},
+            {"role": "assistant", "content": "SMS 'USUB' and send to 5230. For more information, visit: https://www.telenor.com.pk/value-added-services/smart-tunes/"}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing support for Smart Tunes services."},
+            {"role": "user", "content": "How can I search for my favorite Telenor Smart Tunes?"},
+            {"role": "user", "content": "Where to find specific Smart Tunes on Telenor?"},
+            {"role": "user", "content": "How to find songs in Telenor Smart Tunes library?"},
+            {"role": "assistant", "content": "Dial *5230# and press 2 to search the Telenor Smart Tunes library. For more, please visit: https://www.telenor.com.pk/value-added-services/smart-tunes/"}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing support for Smart Tunes services."},
+            {"role": "user", "content": "How to activate Telenor Smart Tune service?"},
+            {"role": "user", "content": "What's the process to start Smart Tune on Telenor?"},
+            {"role": "user", "content": "How do I activate Smart Tunes on my Telenor number?"},
+            {"role": "assistant", "content": "SMS 'SUB' to 5230. Please note Rs.3.50 inclusive of tax will be charged as daily renewal charges."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing support for Smart Tunes services."},
+            {"role": "user", "content": "What is the smart tune daily renewal charges for postpaid?"},
+            {"role": "user", "content": "Daily charges for Smart Tune on postpaid?"},
+            {"role": "user", "content": "What do postpaid users pay daily for Smart Tunes?"},
+            {"role": "assistant", "content": "Postpaid customers will be charged Rs.4 inclusive of tax (per day) for RBT daily renewal, with no monthly renewal charges."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing support for Smart Tunes services."},
+            {"role": "user", "content": "What is the smart tune daily renewal service charges for prepaid?"},
+            {"role": "user", "content": "How much does Smart Tune cost daily for prepaid users?"},
+            {"role": "user", "content": "Daily Smart Tune fees for prepaid, what are they?"},
+            {"role": "assistant", "content": "Prepaid customers will be charged Rs.3.50 inclusive of tax (per day) for RBT daily renewal, with no monthly renewal charges."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing support for Smart Tunes services."},
+            {"role": "user", "content": "What is Telenor Smart Tune activation charges?"},
+            {"role": "user", "content": "Cost to activate Smart Tune, what is it?"},
+            {"role": "user", "content": "Initial charges for starting Smart Tune on Telenor?"},
+            {"role": "assistant", "content": "Telenor Smart Tune first time activation is free of cost. There will be a daily renewal charge."}
+        ]
+    }
+]

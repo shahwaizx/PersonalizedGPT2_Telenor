@@ -1,0 +1,38 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Monthly Super Plus package."},
+            {"role": "user", "content": "What does the Monthly Super Plus package include?"},
+            {"role": "user", "content": "Can you tell me what's offered in the Monthly Super Plus package?"},
+            {"role": "user", "content": "What are the benefits of the Telenor Monthly Super Plus package?"},
+            {"role": "assistant", "content": "The Monthly Super Plus package includes 36GB of internet (18GB usable from 1AM to 9AM), 500 on-net minutes, and 100 off-net minutes for Rs. 650 including tax. The package is valid for 30 days and can be activated by dialing *979#."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Monthly Super Plus package."},
+            {"role": "user", "content": "How can I activate the Monthly Super Plus package?"},
+            {"role": "user", "content": "What is the method to subscribe to the Monthly Super Plus package?"},
+            {"role": "user", "content": "How do I get the Monthly Super Plus package?"},
+            {"role": "assistant", "content": "You can activate the Monthly Super Plus package by dialing *979#. The package offers 36GB of internet, 500 on-net minutes, and 100 off-net minutes for 30 days."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Monthly Super Plus package."},
+            {"role": "user", "content": "Who is eligible for the Monthly Super Plus package?"},
+            {"role": "user", "content": "Can all Telenor customers subscribe to the Monthly Super Plus package?"},
+            {"role": "user", "content": "What are the eligibility criteria for the Monthly Super Plus package?"},
+            {"role": "assistant", "content": "All Telenor GSM Prepaid customers are eligible for the Monthly Super Plus package."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Monthly Super Plus package."},
+            {"role": "user", "content": "How long is the Monthly Super Plus package valid?"},
+            {"role": "user", "content": "What is the validity period of the Monthly Super Plus package?"},
+            {"role": "user", "content": "For how many days does the Monthly Super Plus package remain active?"},
+            {"role": "assistant", "content": "The Monthly Super Plus package is valid for 30 days from the date of subscription. Subscribers will be notified once the package expires."}
+        ]
+    }
+]

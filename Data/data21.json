@@ -1,0 +1,68 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing support for Monthly Social Packs."},
+            {"role": "user", "content": "What does the Monthly Social Pack offer?"},
+            {"role": "user", "content": "What is included in the Monthly Social Pack?"},
+            {"role": "user", "content": "Can you tell me about the Monthly Social Pack?"},
+            {"role": "assistant", "content": "The Monthly Social Pack includes 2500MB of internet data specifically for Facebook and WhatsApp, valid for 30 days. The cost is Rs. 80."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on Monthly Social Packs."},
+            {"role": "user", "content": "How can I subscribe to the Monthly Social Pack?"},
+            {"role": "user", "content": "What's the subscription code for the Monthly Social Pack?"},
+            {"role": "user", "content": "How do I get the Monthly Social Pack?"},
+            {"role": "assistant", "content": "You can subscribe to the Monthly Social Pack by dialing *911# from your Telenor number."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing support for data package issues."},
+            {"role": "user", "content": "What should I do if my data finishes before the package validity ends?"},
+            {"role": "user", "content": "What if my Monthly Social Pack data runs out before the month ends?"},
+            {"role": "assistant", "content": "If your data finishes before the package expires, you will be charged Rs 1/MB incl. tax until the package expires."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing details on additional offers."},
+            {"role": "user", "content": "Is there any supplementary offer available with the Monthly Social Pack?"},
+            {"role": "user", "content": "What other options do I have if I run out of data on the Monthly Social Pack?"},
+            {"role": "assistant", "content": "Yes, there is a supplementary offer available for PKR 6 which provides an additional 300MBs of data. You can activate it by dialing *503# but it cannot be availed more than once a month."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing details on package renewal."},
+            {"role": "user", "content": "Will the Monthly Social Pack renew automatically?"},
+            {"role": "user", "content": "Does the Monthly Social Pack renew on its own?"},
+            {"role": "assistant", "content": "No, the Monthly Social Pack will not renew once it expires. You must subscribe again to continue using the service."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing support for data consumption queries."},
+            {"role": "user", "content": "Why was I charged at a standard rate even though I have data left?"},
+            {"role": "user", "content": "Why did I get charged the base rate when I still have data?"},
+            {"role": "assistant", "content": "The charging system reserves certain data volume for different applications. If you access an app or website not covered by your current package, you may be charged at the standard rate."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on data usage notifications."},
+            {"role": "user", "content": "How will I know when I’m nearing the end of my data allowance?"},
+            {"role": "user", "content": "How will I be notified about my data usage?"},
+            {"role": "assistant", "content": "Intimations will be sent to you regarding the usage of your resources at 80% and 100% consumption from the bundle, so you can take prompt action to avoid standard rate charging."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing support for package validity."},
+            {"role": "user", "content": "What happens if I subscribe to the Monthly Social Pack multiple times?"},
+            {"role": "user", "content": "Can I subscribe to the Monthly Social Pack more than once in a month?"},
+            {"role": "assistant", "content": "Resources and their validity from multiple subscriptions of the Monthly Social Pack are independent of each other and will not merge."}
+        ]
+    }
+]

@@ -1,0 +1,151 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing support for the Monthly IMO Package."},
+            {"role": "user", "content": "What does the Monthly IMO Package include?"},
+            {"role": "user", "content": "Can you tell me about the Monthly IMO Package?"},
+            {"role": "user", "content": "What are the benefits of the Monthly IMO Package?"},
+            {"role": "assistant", "content": "The Monthly IMO Package includes 500MB of internet specifically for IMO usage for Rs. 50, including taxes. This package is valid for 30 days and allows you to message and video chat with family and friends all month long."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on how to subscribe to the Monthly IMO Package."},
+            {"role": "user", "content": "How can I subscribe to the Monthly IMO Package?"},
+            {"role": "user", "content": "What's the code to activate the Monthly IMO Package?"},
+            {"role": "user", "content": "Tell me how to get the Monthly IMO Package."},
+            {"role": "assistant", "content": "You can subscribe to the Monthly IMO Package by dialing *466# from your Telenor GSM Prepaid SIM."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing details on package renewals."},
+            {"role": "user", "content": "Does the Monthly IMO Package renew automatically?"},
+            {"role": "user", "content": "Will my Monthly IMO Package automatically renew?"},
+            {"role": "assistant", "content": "The Monthly IMO Package does not renew automatically. You must manually subscribe again once it expires to continue using the services."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on package eligibility."},
+            {"role": "user", "content": "Who is eligible for the Monthly IMO Package?"},
+            {"role": "user", "content": "Can anyone subscribe to the Monthly IMO Package?"},
+            {"role": "assistant", "content": "All Telenor GSM Prepaid customers are eligible for the Monthly IMO Package."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on package validity."},
+            {"role": "user", "content": "How long is the Monthly IMO Package valid for?"},
+            {"role": "user", "content": "What is the validity of the Monthly IMO Package?"},
+            {"role": "assistant", "content": "The Monthly IMO Package is valid for 30 days from the date of subscription. Subscribers will be informed when the package expires at midnight."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on package usage."},
+            {"role": "user", "content": "What happens if my data finishes before the Monthly IMO Package expires?"},
+            {"role": "user", "content": "What are the charges if I run out of data before the Monthly IMO Package validity ends?"},
+            {"role": "assistant", "content": "If your data finishes before the package expires, you will be charged at Rs 1/MB incl. tax until the package expires."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on package subscription."},
+            {"role": "user", "content": "Can I subscribe to the Monthly IMO Package multiple times within its validity period?"},
+            {"role": "user", "content": "Is it possible to resubscribe to the Monthly IMO Package before it expires?"},
+            {"role": "assistant", "content": "Yes, you can subscribe to the Monthly IMO Package multiple times within its validity period. However, resources and their validity from multiple subscriptions are independent of each other and will not merge."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on data speed and availability."},
+            {"role": "user", "content": "What factors can affect the data speed of the Monthly IMO Package?"},
+            {"role": "user", "content": "Will my data speed vary with the Monthly IMO Package?"},
+            {"role": "assistant", "content": "Data speed for the Monthly IMO Package can vary depending on factors such as your phone, types of URLs accessed, busy hour logistics, network service provider, and your location. Data packages can be availed in 2G/3G/4G network providing areas."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on supplementary packages."},
+            {"role": "user", "content": "Is there a supplementary package available if I run out of data on the Monthly IMO Package?"},
+            {"role": "user", "content": "What can I do if I need more data after using up my Monthly IMO Package?"},
+            {"role": "assistant", "content": "Yes, there is a supplementary package available that provides 300MB for PKR 6. You can activate it by dialing *503#. This supplementary offer can be availed once a month and provides a hedge against accidental standard rate charging."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing support for the Weekly Zoom Package."},
+            {"role": "user", "content": "What does the Weekly Zoom Package include?"},
+            {"role": "user", "content": "Can you tell me about the Weekly Zoom Package?"},
+            {"role": "user", "content": "What are the benefits of the Weekly Zoom Package?"},
+            {"role": "assistant", "content": "The Weekly Zoom Package includes 3000MB of internet specifically for Zoom usage for Rs. 80, including taxes. This package is valid for 7 days and allows you to stay connected through conference calls or family video chats all week long."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on how to subscribe to the Weekly Zoom Package."},
+            {"role": "user", "content": "How can I subscribe to the Weekly Zoom Package?"},
+            {"role": "user", "content": "What's the code to activate the Weekly Zoom Package?"},
+            {"role": "user", "content": "Tell me how to get the Weekly Zoom Package."},
+            {"role": "assistant", "content": "You can subscribe to the Weekly Zoom Package by dialing *345*56# from your Telenor GSM Prepaid SIM."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing details on package renewals."},
+            {"role": "user", "content": "Does the Weekly Zoom Package renew automatically?"},
+            {"role": "user", "content": "Will my Weekly Zoom Package automatically renew?"},
+            {"role": "assistant", "content": "The Weekly Zoom Package does not renew automatically. You must manually subscribe again once it expires to continue using the services."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on package eligibility."},
+            {"role": "user", "content": "Who is eligible for the Weekly Zoom Package?"},
+            {"role": "user", "content": "Can anyone subscribe to the Weekly Zoom Package?"},
+            {"role": "assistant", "content": "All Telenor GSM Prepaid customers are eligible for the Weekly Zoom Package."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on package validity."},
+            {"role": "user", "content": "How long is the Weekly Zoom Package valid for?"},
+            {"role": "user", "content": "What is the validity of the Weekly Zoom Package?"},
+            {"role": "assistant", "content": "The Weekly Zoom Package is valid for 7 days from the date of subscription. Subscribers will be informed when the package expires at midnight on the last day."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on package usage."},
+            {"role": "user", "content": "What happens if my data finishes before the Weekly Zoom Package expires?"},
+            {"role": "user", "content": "What are the charges if I run out of data before the Weekly Zoom Package validity ends?"},
+            {"role": "assistant", "content": "If your data finishes before the package expires, you will be charged at Rs 1/MB incl. tax until the package expires."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on package subscription."},
+            {"role": "user", "content": "Can I subscribe to the Weekly Zoom Package multiple times within its validity period?"},
+            {"role": "user", "content": "Is it possible to resubscribe to the Weekly Zoom Package before it expires?"},
+            {"role": "assistant", "content": "Yes, you can subscribe to the Weekly Zoom Package multiple times within its validity period. However, resources and their validity from multiple subscriptions are independent of each other and will not merge."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on data speed and availability."},
+            {"role": "user", "content": "What factors can affect the data speed of the Weekly Zoom Package?"},
+            {"role": "user", "content": "Will my data speed vary with the Weekly Zoom Package?"},
+            {"role": "assistant", "content": "Data speed for the Weekly Zoom Package can vary depending on factors such as your phone, types of URLs accessed, busy hour logistics, network service provider, and your location. Data packages can be availed in 2G/3G/4G network providing areas."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on supplementary packages."},
+            {"role": "user", "content": "Is there a supplementary package available if I run out of data on the Weekly Zoom Package?"},
+            {"role": "user", "content": "What can I do if I need more data after using up my Weekly Zoom Package?"},
+            {"role": "assistant", "content": "Yes, there is a supplementary package available that provides 300MB for PKR 6. You can activate it by dialing *503#. This supplementary offer can be availed once a month and provides a hedge against accidental standard rate charging."}
+        ]
+    }
+]
+

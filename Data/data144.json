@@ -1,0 +1,47 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Weekly SMS Bundle package."},
+            {"role": "user", "content": "What does the Weekly SMS Bundle include?"},
+            {"role": "user", "content": "Can you tell me the benefits of the Weekly SMS Bundle?"},
+            {"role": "user", "content": "What resources are provided in the Weekly SMS Bundle?"},
+            {"role": "assistant", "content": "The Weekly SMS Bundle includes 2,000 SMS. It is priced at Rs. 17 including tax and is valid for 7 days."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Weekly SMS Bundle package."},
+            {"role": "user", "content": "How can I activate the Weekly SMS Bundle?"},
+            {"role": "user", "content": "What is the process to subscribe to the Weekly SMS Bundle?"},
+            {"role": "user", "content": "How do I get the Weekly SMS Bundle?"},
+            {"role": "assistant", "content": "To activate the Weekly SMS Bundle, dial *345*117# or use the My Telenor App. Confirm your mobile number if prompted. The bundle will provide 2,000 SMS for 7 days."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Weekly SMS Bundle package."},
+            {"role": "user", "content": "Who can subscribe to the Weekly SMS Bundle?"},
+            {"role": "user", "content": "Can all Telenor customers avail the Weekly SMS Bundle?"},
+            {"role": "user", "content": "What are the eligibility criteria for the Weekly SMS Bundle?"},
+            {"role": "assistant", "content": "All Telenor subscribers are eligible for the Weekly SMS Bundle. It can only be activated through the website and My Telenor App."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Weekly SMS Bundle package."},
+            {"role": "user", "content": "How long is the Weekly SMS Bundle valid?"},
+            {"role": "user", "content": "What is the validity period for the Weekly SMS Bundle?"},
+            {"role": "user", "content": "For how many days does the Weekly SMS Bundle remain active?"},
+            {"role": "assistant", "content": "The Weekly SMS Bundle is valid for 7 days from the date of activation."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Weekly SMS Bundle package."},
+            {"role": "user", "content": "How can I check my free SMS balance?"},
+            {"role": "user", "content": "What is the process to check my remaining SMS balance?"},
+            {"role": "user", "content": "How do I find out how many SMS I have left?"},
+            {"role": "assistant", "content": "To check your free SMS balance, dial *111# (charges Rs. 0.24) after subscribing to the Weekly SMS Bundle."}
+        ]
+    }
+]

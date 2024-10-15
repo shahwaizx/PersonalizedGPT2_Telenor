@@ -1,0 +1,20 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing support for balance saving inquiries."},
+            {"role": "user", "content": "How can I activate balance saver?"},
+            {"role": "user", "content": "What steps do I follow to activate the Balance Saver plan?"},
+            {"role": "user", "content": "How do I turn on the Balance Saver feature on my Telenor SIM?"},
+            {"role": "assistant", "content": "Dial *342# to activate the Balance Saver price plan. Charges are Rs. 10 (inclusive of tax). For more details, visit: https://www.telenor.com.pk/price-plans/payg-blocker/"}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing support for balance saving inquiries."},
+            {"role": "user", "content": "What is the balance saver code?"},
+            {"role": "user", "content": "Can you provide the code for activating Balance Saver?"},
+            {"role": "user", "content": "What's the dial code to start the Balance Saver plan?"},
+            {"role": "assistant", "content": "If your balance is being charged on using internet, we provide a price plan named Balance Saver price plan. In this package, internet can be used by activating Data Bundles of your choice ONLY. Upon activation of a Data Bundle, spill over rate will be charged as per the relevant bundle till bundle expiry. You can call any number for Rs. 3.5+tax per minute, SMS charges Rs. 1.8+tax. For AJK SMS charges Rs.2.19+tax. For GB SMS charges Rs. 1.841+tax. To avail the above-mentioned price plan, please dial *342#. Charges are Rs. 10 (inclusive of tax). For more details, visit: https://www.telenor.com.pk/price-plans/payg-blocker/"}
+        ]
+    }
+]

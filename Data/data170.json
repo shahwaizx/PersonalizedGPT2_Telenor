@@ -1,0 +1,23 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Monthly EasyCard."},
+            {"role": "user", "content": "What does the Monthly EasyCard offer include?"},
+            {"role": "assistant", "content": "The Monthly EasyCard includes 20GB of internet (10GBs usable anytime and 10GBs from 1am to 9am), 4,000 Telenor & PTCL minutes, 350 off-net minutes, and 2,000 SMS. It's available for Rs. 780 incl. tax and is valid for 30 days. You can activate it by dialing *345*80#."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Monthly EasyCard."},
+            {"role": "user", "content": "How can I subscribe to the Monthly EasyCard?"},
+            {"role": "assistant", "content": "You can subscribe to the Monthly EasyCard by dialing *345*80#. The offer costs Rs. 780 incl. tax and provides comprehensive benefits like internet, on-net and off-net minutes, and SMS for 30 days. It's also available through retailers and the MyTelenor App."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Monthly EasyCard."},
+            {"role": "user", "content": "What is the validity of the Monthly EasyCard?"},
+            {"role": "assistant", "content": "The Monthly EasyCard is valid for 30 days from the subscription date. Subscribers will beYou can subscribe again to extend the benefits. The offer includes 20GB of internet (10GB usable anytime and 10GB from 1am to 9am), 4,000 Telenor & PTCL minutes, 350 off-net minutes, and 2,000 SMS. Dial 34580# to activate the offer."}
+        ]
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing support for changing SIM ownership."},
+            {"role": "user", "content": "How can I proceed to change SIM ownership if the owner of the SIM is abroad?"},
+            {"role": "user", "content": "What do I need to do to change SIM ownership when the current owner is overseas?"},
+            {"role": "user", "content": "Steps to transfer SIM ownership if the owner lives abroad?"},
+            {"role": "assistant", "content": "Visit our nearest franchise with your original CNIC and documents of party B (images of original CNIC, passport, visa, and proof of living abroad)."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing support for changing SIM ownership when the owner is deceased."},
+            {"role": "user", "content": "How can I proceed to change ownership if the owner of the SIM is not alive?"},
+            {"role": "user", "content": "What's the process to change SIM ownership after the owner has passed away?"},
+            {"role": "user", "content": "Can I transfer SIM ownership if the original owner is deceased?"},
+            {"role": "assistant", "content": "Ownership can be transferred to a blood relative only. Please visit our nearest franchise with your original CNIC along with the required documents of the deceased person: photocopy of CNIC, CNIC cancellation certificate from NADRA or SMS reply of CNIC cancellation from 7000, CNIC of witness, original death certificate, original FRC, affidavit on legal stamp paper, and an active SIM or SIM with visible IMSI."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on the conditions for changing SIM ownership."},
+            {"role": "user", "content": "After how many days of owning a number can I change the ownership of my number?"},
+            {"role": "user", "content": "What's the minimum period I need to wait before I can change my SIM's ownership?"},
+            {"role": "user", "content": "Time requirement before changing ownership of a SIM number?"},
+            {"role": "assistant", "content": "For a normal number, you can request ownership change after 30 days; and for a golden number, after 120 days of activation or the latest ownership update."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing support for initiating SIM ownership changes."},
+            {"role": "user", "content": "How can I initiate a change of ownership request?"},
+            {"role": "user", "content": "What steps should I follow to start a SIM ownership change?"},
+            {"role": "user", "content": "Procedure to begin a SIM ownership transfer?"},
+            {"role": "assistant", "content": "Visit our nearest franchise with the original CNICs of both customers (party A and party B) for Biometric Verification System (BVS)."}
+        ]
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Monthly Prime Offer package."},
+            {"role": "user", "content": "What does the Monthly Prime Offer package include?"},
+            {"role": "user", "content": "Can you tell me what's offered in the Monthly Prime Offer package?"},
+            {"role": "user", "content": "What are the benefits of the Telenor Monthly Prime Offer package?"},
+            {"role": "assistant", "content": "The Monthly Prime Offer package includes 300GB of internet, unlimited on-net minutes (FUP of 200,000 minutes), 1500 off-net minutes, and a 1-month FREE subscription to PANDA PRO. It also includes 50 free international minutes to select countries. The package is valid for 30 days and can be activated by dialing *345*130#."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Monthly Prime Offer package."},
+            {"role": "user", "content": "How can I activate the Monthly Prime Offer package?"},
+            {"role": "user", "content": "What is the method to subscribe to the Monthly Prime Offer package?"},
+            {"role": "user", "content": "How do I get the Monthly Prime Offer package?"},
+            {"role": "assistant", "content": "You can activate the Monthly Prime Offer package by dialing *345*130#. The package offers 300GB of internet, unlimited on-net minutes (FUP of 200,000 minutes), 1500 off-net minutes, and a 1-month FREE subscription to PANDA PRO."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Monthly Prime Offer package."},
+            {"role": "user", "content": "Who is eligible for the Monthly Prime Offer package?"},
+            {"role": "user", "content": "Can all Telenor customers subscribe to the Monthly Prime Offer package?"},
+            {"role": "user", "content": "What are the eligibility criteria for the Monthly Prime Offer package?"},
+            {"role": "assistant", "content": "All Telenor Prepaid customers are eligible for the Monthly Prime Offer package."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Monthly Prime Offer package."},
+            {"role": "user", "content": "How long is the Monthly Prime Offer package valid?"},
+            {"role": "user", "content": "What is the validity period of the Monthly Prime Offer package?"},
+            {"role": "user", "content": "For how many days does the Monthly Prime Offer package remain active?"},
+            {"role": "assistant", "content": "The Monthly Prime Offer package is valid for 30 days from the date of subscription. Subscribers will be notified once the package expires."}
+        ]
+    }
+]

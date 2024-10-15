@@ -1,0 +1,38 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Monthly EasyCard package."},
+            {"role": "user", "content": "What does the Monthly EasyCard package include?"},
+            {"role": "user", "content": "Can you tell me what's offered in the Monthly EasyCard package?"},
+            {"role": "user", "content": "What are the benefits of the Telenor Monthly EasyCard package?"},
+            {"role": "assistant", "content": "The Monthly EasyCard package offers 10GBs of internet plus an additional 10GBs from 1am to 9am, 4,000 Telenor & PTCL minutes, 350 offnet minutes, and 2,000 SMS for Rs. 780 including tax. You can activate this package by dialing *345*80#, through the MyTelenor App, Easypaisa, or your nearest retailer for Rs. 800."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Monthly EasyCard package."},
+            {"role": "user", "content": "How can I activate the Monthly EasyCard package?"},
+            {"role": "user", "content": "What is the method to subscribe to the Monthly EasyCard package?"},
+            {"role": "user", "content": "How do I get the Monthly EasyCard package?"},
+            {"role": "assistant", "content": "You can activate the Monthly EasyCard package by dialing *345*80#. It can also be availed through the MyTelenor App, Easypaisa, or from your nearest retailer for Rs. 800."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Monthly EasyCard package."},
+            {"role": "user", "content": "Who is eligible for the Monthly EasyCard package?"},
+            {"role": "user", "content": "Can all Telenor customers subscribe to the Monthly EasyCard package?"},
+            {"role": "user", "content": "What are the eligibility criteria for the Monthly EasyCard package?"},
+            {"role": "assistant", "content": "All Telenor Prepaid customers are eligible for the Monthly EasyCard offer."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Monthly EasyCard package."},
+            {"role": "user", "content": "How long is the Monthly EasyCard package valid?"},
+            {"role": "user", "content": "What is the validity period of the Monthly EasyCard package?"},
+            {"role": "user", "content": "For how many days does the Monthly EasyCard package remain active?"},
+            {"role": "assistant", "content": "The Monthly EasyCard package is valid for 30 days from the date of subscription. Subscribers will be notified once the package expires."}
+        ]
+    }
+]

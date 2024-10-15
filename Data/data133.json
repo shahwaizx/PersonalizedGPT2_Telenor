@@ -1,0 +1,38 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Sim Lagao Offer."},
+            {"role": "user", "content": "What does the Sim Lagao Offer include?"},
+            {"role": "user", "content": "Can you tell me what's offered in the Sim Lagao Offer?"},
+            {"role": "user", "content": "What are the benefits of the Telenor Sim Lagao Offer?"},
+            {"role": "assistant", "content": "The Sim Lagao Offer includes 10GB of internet (usable from 12am to 7pm), 3000 on-net minutes, valid for 60 days. To activate, dial *2222#, call 2222 (charges: 1 paisa), or SMS 'FREE' to 2222 (charges: 1 paisa)."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Sim Lagao Offer."},
+            {"role": "user", "content": "How can I activate the Sim Lagao Offer?"},
+            {"role": "user", "content": "What is the method to subscribe to the Sim Lagao Offer?"},
+            {"role": "user", "content": "How do I get the Sim Lagao Offer?"},
+            {"role": "assistant", "content": "You can activate the Sim Lagao Offer by dialing *2222#, calling 2222 (charges: 1 paisa), or sending an SMS with 'FREE' to 2222 (charges: 1 paisa)."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Sim Lagao Offer."},
+            {"role": "user", "content": "Who is eligible for the Sim Lagao Offer?"},
+            {"role": "user", "content": "Can all Telenor customers subscribe to the Sim Lagao Offer?"},
+            {"role": "user", "content": "What are the eligibility criteria for the Sim Lagao Offer?"},
+            {"role": "assistant", "content": "Customers who have not used their Telenor SIM since 28th June, 2024 are eligible for the Sim Lagao Offer. Eligible subscribers will get 10GB of data (5GB initially and 5GB after 30 days), and 3000 on-net minutes (50 minutes daily) for 60 days. Specific regions may have different eligibility for on-net minutes."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Sim Lagao Offer."},
+            {"role": "user", "content": "How long is the Sim Lagao Offer valid?"},
+            {"role": "user", "content": "What is the validity period of the Sim Lagao Offer?"},
+            {"role": "user", "content": "For how many days does the Sim Lagao Offer remain active?"},
+            {"role": "assistant", "content": "The Sim Lagao Offer is valid for 60 days from the date of subscription. Subscribers will receive 50 free minutes daily and 5GB of data initially, with another 5GB after 30 days."}
+        ]
+    }
+]

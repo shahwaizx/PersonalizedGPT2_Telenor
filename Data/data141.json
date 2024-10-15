@@ -1,0 +1,38 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Monthly Ultimate Offer."},
+            {"role": "user", "content": "What does the Monthly Ultimate Offer include?"},
+            {"role": "user", "content": "Can you tell me the benefits of the Monthly Ultimate Offer?"},
+            {"role": "user", "content": "What resources are provided in the Monthly Ultimate Offer?"},
+            {"role": "assistant", "content": "The Monthly Ultimate Offer includes 200GB of internet, unlimited on-net minutes, and 1200 off-net minutes for Rs. 1390 including tax. It also provides a free EFU Life Insurance subscription. The package is valid for 30 days and can be activated by dialing *345*98#."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Monthly Ultimate Offer."},
+            {"role": "user", "content": "How can I activate the Monthly Ultimate Offer?"},
+            {"role": "user", "content": "What is the process to subscribe to the Monthly Ultimate Offer?"},
+            {"role": "user", "content": "How do I get the Monthly Ultimate Offer?"},
+            {"role": "assistant", "content": "To activate the Monthly Ultimate Offer, dial *345*98#. The offer includes 200GB of internet, unlimited on-net minutes, and 1200 off-net minutes, along with free EFU Life Insurance for 30 days."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Monthly Ultimate Offer."},
+            {"role": "user", "content": "Who can subscribe to the Monthly Ultimate Offer?"},
+            {"role": "user", "content": "Can all Telenor customers avail the Monthly Ultimate Offer?"},
+            {"role": "user", "content": "What are the eligibility criteria for the Monthly Ultimate Offer?"},
+            {"role": "assistant", "content": "All Telenor Prepaid customers are eligible for the Monthly Ultimate Offer."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Monthly Ultimate Offer."},
+            {"role": "user", "content": "How long is the Monthly Ultimate Offer valid?"},
+            {"role": "user", "content": "What is the validity period for the Monthly Ultimate Offer?"},
+            {"role": "user", "content": "For how many days does the Monthly Ultimate Offer remain active?"},
+            {"role": "assistant", "content": "The Monthly Ultimate Offer is valid for 30 days from the date of subscription. Subscribers will be informed once the package expires. Re-subscribing will extend the validity by an additional 30 days."}
+        ]
+    }
+]

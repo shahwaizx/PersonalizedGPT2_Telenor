@@ -1,0 +1,56 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Hajj Saudia Bundle."},
+            {"role": "user", "content": "What does the Hajj Saudia Bundle include?"},
+            {"role": "user", "content": "Can you tell me the benefits of the Hajj Saudia Bundle?"},
+            {"role": "user", "content": "What resources are provided in the Hajj Saudia Bundle?"},
+            {"role": "assistant", "content": "The Hajj Saudia Bundle includes 1000 MB of internet, 30 minutes of voice calls (both incoming and outgoing), and 30 SMS (outgoing). The bundle is valid for 30 days and is priced at Rs. 799."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Hajj Saudia Bundle."},
+            {"role": "user", "content": "How can I activate the Hajj Saudia Bundle?"},
+            {"role": "user", "content": "What is the process to subscribe to the Hajj Saudia Bundle?"},
+            {"role": "user", "content": "How do I get the Hajj Saudia Bundle?"},
+            {"role": "assistant", "content": "To activate the Hajj Saudia Bundle, dial *345*146# from your Telenor prepaid number. You can also subscribe to the bundle while in Saudi Arabia, UAE, Oman, or Qatar."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Hajj Saudia Bundle."},
+            {"role": "user", "content": "Who can subscribe to the Hajj Saudia Bundle?"},
+            {"role": "user", "content": "Can all Telenor prepaid customers avail the Hajj Saudia Bundle?"},
+            {"role": "user", "content": "What are the eligibility criteria for the Hajj Saudia Bundle?"},
+            {"role": "assistant", "content": "The Hajj Saudia Bundle is available exclusively for Telenor prepaid customers. It can be activated while in Saudi Arabia, UAE, Oman, or Qatar, or from Pakistan."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Hajj Saudia Bundle."},
+            {"role": "user", "content": "How long is the Hajj Saudia Bundle valid?"},
+            {"role": "user", "content": "What is the validity period for the Hajj Saudia Bundle?"},
+            {"role": "user", "content": "For how many days does the Hajj Saudia Bundle remain active?"},
+            {"role": "assistant", "content": "The Hajj Saudia Bundle is valid for 30 days from the date of activation."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Hajj Saudia Bundle."},
+            {"role": "user", "content": "Are there any restrictions on using the Hajj Saudia Bundle?"},
+            {"role": "user", "content": "Can I use the Hajj Saudia Bundle in any country?"},
+            {"role": "user", "content": "What are the conditions for using the Hajj Saudia Bundle?"},
+            {"role": "assistant", "content": "The Hajj Saudia Bundle can only be used while roaming in Saudi Arabia, UAE, Oman, and Qatar. Internet data is restricted to these countries, and SMS can be used locally in these countries as well as for sending messages to Pakistan. Voice minutes can be used for local calls and calls to Pakistan."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Hajj Saudia Bundle."},
+            {"role": "user", "content": "What should I do if I want to use the Hajj Saudia Bundle?"},
+            {"role": "user", "content": "Do I need to activate any additional service for using the Hajj Saudia Bundle?"},
+            {"role": "user", "content": "Are there any additional steps to use the Hajj Saudia Bundle?"},
+            {"role": "assistant", "content": "To use the Hajj Saudia Bundle, ensure that your International Roaming (IR) service is activated. This bundle is only functional while roaming in the specified countries."}
+        ]
+    }
+]

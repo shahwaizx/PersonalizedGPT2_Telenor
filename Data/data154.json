@@ -1,0 +1,47 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the International Discount Offer-KSA."},
+            {"role": "user", "content": "What does the International Discount Offer-KSA provide?"},
+            {"role": "user", "content": "Can you tell me about the International Discount Offer-KSA?"},
+            {"role": "user", "content": "What are the benefits of the International Discount Offer-KSA?"},
+            {"role": "assistant", "content": "The International Discount Offer-KSA allows you to call Saudi Arabia at a rate of Rs. 15.33 per 20 seconds. You get 10 free Telenor Bonus minutes with every call, up to 50 minutes a day. You can dial *222# to check your remaining bonus minutes."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the International Discount Offer-KSA."},
+            {"role": "user", "content": "How can I activate the International Discount Offer-KSA?"},
+            {"role": "user", "content": "What is the activation process for the International Discount Offer-KSA?"},
+            {"role": "user", "content": "How do I subscribe to the International Discount Offer-KSA?"},
+            {"role": "assistant", "content": "To activate the International Discount Offer-KSA, dial *345*6#."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the International Discount Offer-KSA."},
+            {"role": "user", "content": "Who is eligible for the International Discount Offer-KSA?"},
+            {"role": "user", "content": "Is the International Discount Offer-KSA available for all Telenor subscribers?"},
+            {"role": "user", "content": "Can all Telenor subscribers use the International Discount Offer-KSA?"},
+            {"role": "assistant", "content": "All Telenor subscribers are eligible for the International Discount Offer-KSA."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the International Discount Offer-KSA."},
+            {"role": "user", "content": "How long is the International Discount Offer-KSA valid for?"},
+            {"role": "user", "content": "What is the validity of the International Discount Offer-KSA?"},
+            {"role": "user", "content": "How many days can I use the International Discount Offer-KSA?"},
+            {"role": "assistant", "content": "The International Discount Offer-KSA is valid 24 hours a day. The free Telenor Bonus minutes are valid until midnight of the same day."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the International Discount Offer-KSA."},
+            {"role": "user", "content": "Are there any additional conditions for the International Discount Offer-KSA?"},
+            {"role": "user", "content": "What are the terms and conditions for the International Discount Offer-KSA?"},
+            {"role": "user", "content": "Are there any extra charges or limitations with the International Discount Offer-KSA?"},
+            {"role": "assistant", "content": "A call setup charge of 15 paisa will be applied to each call. All prices are inclusive of tax. The free Telenor minutes are valid until midnight of the same day."}
+        ]
+    }
+]

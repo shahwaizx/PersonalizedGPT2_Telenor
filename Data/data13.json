@@ -1,0 +1,29 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing support for internet setting issues."},
+            {"role": "user", "content": "How to fix Telenor internet setting problems?"},
+            {"role": "user", "content": "What to do if my Telenor internet settings aren't working?"},
+            {"role": "user", "content": "How can I correct issues with Telenor internet settings?"},
+            {"role": "assistant", "content": "For Telenor internet settings, type 'Internet' and send to 131. For more details, visit: https://www.telenor.com.pk/value-added-services/balance-inquiry/"}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing support for tracking customer service complaints."},
+            {"role": "user", "content": "HOW I CAN CHECK REMARKS/UPDATE OF MY LAST COMPLAINT?"},
+            {"role": "user", "content": "Where can I see updates on the complaint I filed with Telenor?"},
+            {"role": "user", "content": "How do I track the status of my recent Telenor service complaint?"},
+            {"role": "assistant", "content": "If you have lodged a complaint yourself through the My Telenor app, you can check the remarks in the My Telenor app; alternately, you can contact our Telenor helpline at 345 (UAN number 042111345100)."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing support for SIM number inquiries."},
+            {"role": "user", "content": "How to check Telenor SIM number?"},
+            {"role": "user", "content": "Can you tell me how to find out my Telenor SIM number?"},
+            {"role": "user", "content": "What's the method to check my SIM number for Telenor?"},
+            {"role": "assistant", "content": "Call with the same SIM on 7421 for number inquiry or you can also call our Telenor helpline at 345 or (UAN 042111345100)."}
+        ]
+    }
+]

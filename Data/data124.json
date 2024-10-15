@@ -1,0 +1,38 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Social All-in-One Package."},
+            {"role": "user", "content": "What does the Social All-in-One Package include?"},
+            {"role": "user", "content": "Can you tell me what's offered in the Social All-in-One Package?"},
+            {"role": "user", "content": "What are the benefits of the Telenor Social All-in-One Package?"},
+            {"role": "assistant", "content": "The Social All-in-One Package offers 12GB of internet for Facebook and WhatsApp, plus an additional 100MB, 250 onnet minutes, and 25 offnet minutes for Rs. 210 including tax. You can subscribe by dialing *572# or through My Telenor App, Easypaisa, or at your nearest retailer for Rs. 260."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Social All-in-One Package."},
+            {"role": "user", "content": "How can I activate the Social All-in-One Package?"},
+            {"role": "user", "content": "What is the method to subscribe to the Social All-in-One Package?"},
+            {"role": "user", "content": "How do I get the Social All-in-One Package?"},
+            {"role": "assistant", "content": "You can activate the Social All-in-One Package by dialing *572#. It can also be availed through the My Telenor App, Easypaisa, or from your nearest retailer for Rs. 260."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Social All-in-One Package."},
+            {"role": "user", "content": "Who is eligible for the Social All-in-One Package?"},
+            {"role": "user", "content": "Can all Telenor customers subscribe to the Social All-in-One Package?"},
+            {"role": "user", "content": "What are the eligibility criteria for the Social All-in-One Package?"},
+            {"role": "assistant", "content": "All Telenor Prepaid customers are eligible for the Social All-in-One Package."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Social All-in-One Package."},
+            {"role": "user", "content": "How long is the Social All-in-One Package valid?"},
+            {"role": "user", "content": "What is the validity period of the Social All-in-One Package?"},
+            {"role": "user", "content": "For how many days does the Social All-in-One Package remain active?"},
+            {"role": "assistant", "content": "The Social All-in-One Package is valid for 30 days from the date of subscription. Subscribers will be notified once the package expires."}
+        ]
+    }
+]

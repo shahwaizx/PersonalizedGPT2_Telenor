@@ -1,0 +1,300 @@
+[
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a chatbot for Telenor Pakistan providing support for the Monthly IMO Package."
+            },
+            {
+                "role": "user",
+                "content": "What does the Monthly IMO Package include?"
+            },
+            {
+                "role": "user",
+                "content": "Can you tell me about the Monthly IMO offer?"
+            },
+            {
+                "role": "user",
+                "content": "What are the benefits of the Monthly IMO package?"
+            },
+            {
+                "role": "assistant",
+                "content": "The Monthly IMO Package offers 500MB of internet specifically for use on IMO for Rs. 50, including taxes. This package is valid for 30 days and allows you to message and video chat extensively with family and friends."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a chatbot for Telenor Pakistan providing information on how to subscribe to the Monthly IMO Package."
+            },
+            {
+                "role": "user",
+                "content": "How can I subscribe to the Monthly IMO Package?"
+            },
+            {
+                "role": "user",
+                "content": "What's the code to activate the Monthly IMO offer?"
+            },
+            {
+                "role": "user",
+                "content": "Tell me how to get the Monthly IMO package."
+            },
+            {
+                "role": "assistant",
+                "content": "You can subscribe to the Monthly IMO Package by dialing *466# from your Telenor GSM Prepaid SIM."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a chatbot for Telenor Pakistan providing details on package renewals."
+            },
+            {
+                "role": "user",
+                "content": "Does the Monthly IMO Package renew automatically?"
+            },
+            {
+                "role": "user",
+                "content": "Will my Monthly IMO automatically renew?"
+            },
+            {
+                "role": "assistant",
+                "content": "The Monthly IMO Package does not renew automatically. You must manually subscribe again once it expires to continue using the services."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a chatbot for Telenor Pakistan providing information on package eligibility."
+            },
+            {
+                "role": "user",
+                "content": "Who is eligible for the Monthly IMO Package?"
+            },
+            {
+                "role": "user",
+                "content": "Can anyone subscribe to the Monthly IMO offer?"
+            },
+            {
+                "role": "assistant",
+                "content": "All Telenor GSM Prepaid customers are eligible for the Monthly IMO Package."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a chatbot for Telenor Pakistan providing support for the Monthly Snapchat Package."
+            },
+            {
+                "role": "user",
+                "content": "What does the Monthly Snapchat Package include?"
+            },
+            {
+                "role": "user",
+                "content": "Can you tell me about the Monthly Snapchat offer?"
+            },
+            {
+                "role": "user",
+                "content": "What are the benefits of the Monthly Snapchat package?"
+            },
+            {
+                "role": "assistant",
+                "content": "The Monthly Snapchat Package offers 2000MB of internet specifically for Snapchat usage for Rs. 5, valid for 30 days. This allows you to maintain streaks and stay connected with friends on Snapchat all month long."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a chatbot for Telenor Pakistan providing information on how to subscribe to the Monthly Snapchat Package."
+            },
+            {
+                "role": "user",
+                "content": "How can I subscribe to the Monthly Snapchat Package?"
+            },
+            {
+                "role": "user",
+                "content": "What's the code to activate the Monthly Snapchat offer?"
+            },
+            {
+                "role": "user",
+                "content": "Tell me how to get the Monthly Snapchat package."
+            },
+            {
+                "role": "assistant",
+                "content": "You can subscribe to the Monthly Snapchat Package by dialing *915# from your Telenor GSM Prepaid SIM."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a chatbot for Telenor Pakistan providing details on package renewals."
+            },
+            {
+                "role": "user",
+                "content": "Does the Monthly Snapchat Package renew automatically?"
+            },
+            {
+                "role": "user",
+                "content": "Will my Monthly Snapchat automatically renew?"
+            },
+            {
+                "role": "assistant",
+                "content": "The Monthly Snapchat Package does not renew automatically. You must manually subscribe again once it expires to continue using the services."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a chatbot for Telenor Pakistan providing information on package restrictions."
+            },
+            {
+                "role": "user",
+                "content": "Can I resubscribe to the Monthly Snapchat Package before it expires?"
+            },
+            {
+                "role": "user",
+                "content": "Is it possible to renew the Monthly Snapchat Package before the 30 days are up?"
+            },
+            {
+                "role": "assistant",
+                "content": "Resubscription to the Monthly Snapchat Package within its validity period is not allowed. You can only subscribe again once the current subscription expires."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a chatbot for Telenor Pakistan providing support for the Monthly Social Extreme package."
+            },
+            {
+                "role": "user",
+                "content": "What does the Monthly Social Extreme package include?"
+            },
+            {
+                "role": "user",
+                "content": "Can you tell me about the Monthly Social Extreme offer?"
+            },
+            {
+                "role": "user",
+                "content": "What are the benefits of the Monthly Social Extreme package?"
+            },
+            {
+                "role": "assistant",
+                "content": "The Monthly Social Extreme package offers 8,000 MB of internet specifically for Facebook and WhatsApp usage for Rs. 130, including taxes. This package allows you to stay connected with friends and family on your favorite social platforms for an entire month."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a chatbot for Telenor Pakistan providing information on how to subscribe to the Monthly Social Extreme package."
+            },
+            {
+                "role": "user",
+                "content": "How can I subscribe to the Monthly Social Extreme package?"
+            },
+            {
+                "role": "user",
+                "content": "What's the code to activate the Monthly Social Extreme offer?"
+            },
+            {
+                "role": "user",
+                "content": "Tell me how to get the Monthly Social Extreme package."
+            },
+            {
+                "role": "assistant",
+                "content": "You can subscribe to the Monthly Social Extreme package by dialing *345*61# from your Telenor GSM Prepaid SIM."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a chatbot for Telenor Pakistan providing details on package renewals."
+            },
+            {
+                "role": "user",
+                "content": "Does the Monthly Social Extreme package renew automatically?"
+            },
+            {
+                "role": "user",
+                "content": "Will my Monthly Social Extreme automatically renew?"
+            },
+            {
+                "role": "assistant",
+                "content": "The Monthly Social Extreme package does not renew automatically. You must manually subscribe again once it expires to continue using the services."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are a chatbot for Telenor Pakistan providing information on package eligibility."
+            },
+            {
+                "role": "user",
+                "content": "Who is eligible for the Monthly Social Extreme package?"
+            },
+            {
+                "role": "user",
+                "content": "Can anyone subscribe to the Monthly Social Extreme offer?"
+            },
+            {
+                "role": "assistant",
+                "content": "All Telenor GSM Prepaid customers are eligible for the Monthly Social Extreme package."
+            }
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing support for the Monthly Social Extreme Plus package."},
+            {"role": "user", "content": "What does the Monthly Social Extreme Plus package include?"},
+            {"role": "user", "content": "Can you tell me about the Monthly Social Extreme Plus offer?"},
+            {"role": "user", "content": "What are the benefits of the Monthly Social Extreme Plus package?"},
+            {"role": "assistant", "content": "The Monthly Social Extreme Plus package offers 15,000 MB of internet for Facebook, WhatsApp, and PUBG Mobile for Rs. 173, including taxes. This package is valid for 30 days and allows you to stay connected and enjoy gaming throughout the month."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on how to subscribe to the Monthly Social Extreme Plus package."},
+            {"role": "user", "content": "How can I subscribe to the Monthly Social Extreme Plus package?"},
+            {"role": "user", "content": "What's the code to activate the Monthly Social Extreme Plus offer?"},
+            {"role": "user", "content": "Tell me how to get the Monthly Social Extreme Plus package."},
+            {"role": "assistant", "content": "You can subscribe to the Monthly Social Extreme Plus package by dialing *345*18# from your Telenor GSM Prepaid SIM."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing details on package renewals."},
+            {"role": "user", "content": "Does the Monthly Social Extreme Plus package renew automatically?"},
+            {"role": "user", "content": "Will my Monthly Social Extreme Plus automatically renew?"},
+            {"role": "assistant", "content": "The Monthly Social Extreme Plus package does not renew automatically. You must manually subscribe again once it expires to continue using the services."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on package eligibility."},
+            {"role": "user", "content": "Who is eligible for the Monthly Social Extreme Plus package?"},
+            {"role": "user", "content": "Can anyone subscribe to the Monthly Social Extreme Plus offer?"},
+            {"role": "assistant", "content": "All Telenor GSM Prepaid customers are eligible for the Monthly Social Extreme Plus package."}
+        ]
+    }
+]

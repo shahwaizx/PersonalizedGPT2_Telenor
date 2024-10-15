@@ -1,0 +1,38 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the 15 Days Extreme package."},
+            {"role": "user", "content": "What does the 15 Days Extreme package offer include?"},
+            {"role": "user", "content": "Can you tell me what's included in the 15 Days Extreme package?"},
+            {"role": "user", "content": "What are the benefits of the Telenor 15 Days Extreme package?"},
+            {"role": "assistant", "content": "The 15 Days Extreme package offers 130 GB of internet, 7500 Telenor minutes, 400 offnet minutes, and 7500 SMS for 15 days. The balance price is PKR 715 including tax. Dial *345*126# to subscribe. This package allows for non-stop streaming, surfing, chatting, and calling."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the 15 Days Extreme package."},
+            {"role": "user", "content": "How can I subscribe to the 15 Days Extreme package?"},
+            {"role": "user", "content": "What are the ways to activate the 15 Days Extreme package?"},
+            {"role": "user", "content": "How do I get started with Telenor's 15 Days Extreme package?"},
+            {"role": "assistant", "content": "You can subscribe to the 15 Days Extreme package by dialing *345*126#. It is also available through retailers, the MyTelenor App, or via easypaisa. The package provides extensive connectivity for 15 days."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the 15 Days Extreme package."},
+            {"role": "user", "content": "Who is eligible for the 15 Days Extreme package?"},
+            {"role": "user", "content": "Can anyone subscribe to the 15 Days Extreme package?"},
+            {"role": "user", "content": "What are the eligibility requirements for the 15 Days Extreme package?"},
+            {"role": "assistant", "content": "All Telenor Prepaid customers are eligible for the 15 Days Extreme offer."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the 15 Days Extreme package."},
+            {"role": "user", "content": "How long does the 15 Days Extreme package last?"},
+            {"role": "user", "content": "What is the validity period of the 15 Days Extreme package?"},
+            {"role": "user", "content": "For how long is the 15 Days Extreme package valid after activation?"},
+            {"role": "assistant", "content": "The 15 Days Extreme package is valid for 15 days from the subscription date. Subscribers will be informed once the package expires."}
+        ]
+    }
+]

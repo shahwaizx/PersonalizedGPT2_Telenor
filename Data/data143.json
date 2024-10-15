@@ -1,0 +1,38 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Monthly SMS Bundle package."},
+            {"role": "user", "content": "What does the Monthly SMS Bundle include?"},
+            {"role": "user", "content": "Can you tell me the benefits of the Monthly SMS Bundle?"},
+            {"role": "user", "content": "What resources are provided in the Monthly SMS Bundle?"},
+            {"role": "assistant", "content": "The Monthly SMS Bundle includes 10,000 SMS and 300MB for WhatsApp. The package is priced at Rs. 60 including tax and is valid for 30 days."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Monthly SMS Bundle package."},
+            {"role": "user", "content": "How can I activate the Monthly SMS Bundle?"},
+            {"role": "user", "content": "What is the process to subscribe to the Monthly SMS Bundle?"},
+            {"role": "user", "content": "How do I get the Monthly SMS Bundle?"},
+            {"role": "assistant", "content": "To activate the Monthly SMS Bundle, dial *345*363# or use the My Telenor App. Confirm your mobile number if prompted. The bundle will provide 10,000 SMS and 300MB for WhatsApp for 30 days."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Monthly SMS Bundle package."},
+            {"role": "user", "content": "Who can subscribe to the Monthly SMS Bundle?"},
+            {"role": "user", "content": "Can all Telenor customers avail the Monthly SMS Bundle?"},
+            {"role": "user", "content": "What are the eligibility criteria for the Monthly SMS Bundle?"},
+            {"role": "assistant", "content": "All Telenor subscribers are eligible for the Monthly SMS Bundle. It can only be activated through the website and My Telenor App."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Monthly SMS Bundle package."},
+            {"role": "user", "content": "How long is the Monthly SMS Bundle valid?"},
+            {"role": "user", "content": "What is the validity period for the Monthly SMS Bundle?"},
+            {"role": "user", "content": "For how many days does the Monthly SMS Bundle remain active?"},
+            {"role": "assistant", "content": "The Monthly SMS Bundle is valid for 30 days from the date of activation."}
+        ]
+    }
+]

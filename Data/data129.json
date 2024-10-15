@@ -1,0 +1,38 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Weekly Prime Offer package."},
+            {"role": "user", "content": "What does the Weekly Prime Offer package include?"},
+            {"role": "user", "content": "Can you tell me what's offered in the Weekly Prime Offer package?"},
+            {"role": "user", "content": "What are the benefits of the Telenor Weekly Prime Offer package?"},
+            {"role": "assistant", "content": "The Weekly Prime Offer package includes 100GB of internet, 50GB for Garena Free Fire, unlimited Telenor minutes, 600 offnet minutes, and 15,000 SMS for Rs. 390 including tax. You also receive Free Fire Gift Codes via SMS after activation. The package is valid for 7 days."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Weekly Prime Offer package."},
+            {"role": "user", "content": "How can I activate the Weekly Prime Offer package?"},
+            {"role": "user", "content": "What is the method to subscribe to the Weekly Prime Offer package?"},
+            {"role": "user", "content": "How do I get the Weekly Prime Offer package?"},
+            {"role": "assistant", "content": "You can activate the Weekly Prime Offer package by dialing the activation code or through the My Telenor App. The package provides extensive connectivity features and Free Fire Gift Codes."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Weekly Prime Offer package."},
+            {"role": "user", "content": "Who is eligible for the Weekly Prime Offer package?"},
+            {"role": "user", "content": "Can all Telenor customers subscribe to the Weekly Prime Offer package?"},
+            {"role": "user", "content": "What are the eligibility criteria for the Weekly Prime Offer package?"},
+            {"role": "assistant", "content": "All Telenor Prepaid customers are eligible for the Weekly Prime Offer."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Weekly Prime Offer package."},
+            {"role": "user", "content": "How long is the Weekly Prime Offer package valid?"},
+            {"role": "user", "content": "What is the validity period of the Weekly Prime Offer package?"},
+            {"role": "user", "content": "For how many days does the Weekly Prime Offer package remain active?"},
+            {"role": "assistant", "content": "The Weekly Prime Offer package is valid for 7 days from the date of subscription. Subscribers will be notified once the package expires."}
+        ]
+    }
+]

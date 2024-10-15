@@ -1,0 +1,108 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on package subscription and availability."},
+            {"role": "user", "content": "Can I activate the Weekly Sports Package more than once during its validity period?"},
+            {"role": "user", "content": "Can the Weekly Sports Package be subscribed to again before the current subscription ends?"},
+            {"role": "assistant", "content": "Yes, you can activate the Weekly Sports Package more than once if the resources finish. However, the package does not renew automatically, so you need to manually activate it again when needed."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on package subscription and availability."},
+            {"role": "user", "content": "Can I subscribe to the Weekly Sports Package again if I've used all my data before it expires?"},
+            {"role": "user", "content": "Is it possible to re-subscribe to the Weekly Sports Package if I've exhausted the data before the 7 days are up?"},
+            {"role": "assistant", "content": "Yes, you can re-subscribe to the Weekly Sports Package if you use up all your data before the package expires. You will need to activate it manually again."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on package subscription and availability."},
+            {"role": "user", "content": "What should I do if I want to continue using the Weekly Sports Package after my data runs out?"},
+            {"role": "user", "content": "How can I keep using the Weekly Sports Package if my data is exhausted before the 7 days end?"},
+            {"role": "assistant", "content": "If you exhaust the data before the 7-day period ends, you can continue using the Weekly Sports Package by re-subscribing to it manually. The package does not automatically renew or add more data once exhausted."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on package subscription and availability."},
+            {"role": "user", "content": "Can I use the Weekly Sports Package for other apps or only for Cricwick?"},
+            {"role": "user", "content": "Does the Weekly Sports Package data work with apps other than Cricwick?"},
+            {"role": "assistant", "content": "The Weekly Sports Package provides data specifically for Cricwick. If you use data for other apps, it may be charged at the standard rate."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on package subscription and availability."},
+            {"role": "user", "content": "What happens if I use the Weekly Sports Package data before the 7-day period ends?"},
+            {"role": "user", "content": "What charges apply if I finish the data from the Weekly Sports Package early?"},
+            {"role": "assistant", "content": "If you use up the data from the Weekly Sports Package before the 7-day period ends, you will be charged at Rs 1/MB including tax for any additional data usage until the package expires."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on package subscription and availability."},
+            {"role": "user", "content": "Can I get notifications when my Weekly Sports Package data is running low?"},
+            {"role": "user", "content": "Will I receive any alerts if my data usage for the Weekly Sports Package reaches 80% or 100%?"},
+            {"role": "assistant", "content": "Yes, you will receive notifications when you reach 80% and 100% data consumption of your Weekly Sports Package. This helps you take action to avoid standard rate charges."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on package subscription and availability."},
+            {"role": "user", "content": "How do I activate the Weekly Sports Package?"},
+            {"role": "user", "content": "What is the process to subscribe to the Weekly Sports Package?"},
+            {"role": "assistant", "content": "To activate the Weekly Sports Package, you can dial *345*196# or use the MyTelenor App. After activation, download the Cricwick app or visit the website and enter your phone number to access your free subscription."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on package subscription and availability."},
+            {"role": "user", "content": "Can I access Cricwick features without additional charges with the Weekly Sports Package?"},
+            {"role": "user", "content": "Will I be charged extra for using Cricwick features with the Weekly Sports Package?"},
+            {"role": "assistant", "content": "With the Weekly Sports Package, you get free access to Cricwick, including features like live streaming of matches and the Fantasy League. There are no additional charges for these features as long as you stay within the data limit of the package."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on package subscription and availability."},
+            {"role": "user", "content": "Can you list all the weekly packages available?"},
+            {"role": "user", "content": "What are the different weekly packages offered by Telenor?"},
+            {"role": "assistant", "content": "Telenor offers the following weekly packages: Weekly Video Package, Weekly Zoom Package, Weekly Music Package, and Weekly Sports Package."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on package subscription and availability."},
+            {"role": "user", "content": "What are the monthly packages available for Telenor users?"},
+            {"role": "user", "content": "Can you provide details on the monthly packages offered by Telenor?"},
+            {"role": "assistant", "content": "Telenor offers the Monthly IMO Package for Rs. 50 incl. tax, which provides 500 MB of data specifically for IMO."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on package subscription and availability."},
+            {"role": "user", "content": "What is included in the Daily YouTube Package?"},
+            {"role": "user", "content": "Can you describe the Daily YouTube Package?"},
+            {"role": "assistant", "content": "The Daily YouTube Package provides 500 MB of data specifically for streaming on YouTube, valid for one day until midnight, and costs Rs. 8 including tax."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on package subscription and availability."},
+            {"role": "user", "content": "What is the data limit and validity for the Weekly Music Package?"},
+            {"role": "user", "content": "Can you provide details about the Weekly Music Package?"},
+            {"role": "assistant", "content": "The Weekly Music Package provides 1000 MB of data for Soundcloud and Patari, valid for 7 days, and costs Rs. 10 including tax."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on package subscription and availability."},
+            {"role": "user", "content": "How do I activate the Monthly IMO Package?"},
+            {"role": "user", "content": "What is the process to subscribe to the Monthly IMO Package?"},
+            {"role": "assistant", "content": "To activate the Monthly IMO Package, you can dial *466# or use the MyTelenor App. The package costs Rs. 50 including tax and provides 500 MB of data for IMO."}
+        ]
+    }
+]
+
+

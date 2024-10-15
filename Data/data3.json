@@ -1,0 +1,9 @@
+{
+    "messages": [
+        {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing support for account issues."},
+        {"role": "user", "content": "Offer not activated and balance deducted. What should I do now?"},
+        {"role": "user", "content": "My balance is gone but the offer didn't activate, what's next?"},
+        {"role": "user", "content": "Deducted balance without activating offer, how to resolve this?"},
+        {"role": "assistant", "content": "If your balance was deducted and the offer is not active, you must lodge a complaint via the My Telenor app. You can also contact our helpline at 345 or UAN number 042111345100 for assistance."}
+    ]
+}

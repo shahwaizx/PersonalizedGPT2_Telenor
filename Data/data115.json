@@ -1,0 +1,38 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Telenor Economy package."},
+            {"role": "user", "content": "What are the call rates for the Telenor Economy package?"},
+            {"role": "user", "content": "Can you tell me the cost of calls in the Telenor Economy plan?"},
+            {"role": "user", "content": "How much does it cost to make calls on the Telenor Economy package?"},
+            {"role": "assistant", "content": "In the Telenor Economy package, the call rates to all networks including PTCL are Rs. 2.93 + tax per minute. Additionally, video calls are charged at Rs. 2.87 for every 5 minutes + tax."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Telenor Economy package."},
+            {"role": "user", "content": "What are the SMS charges in the Telenor Economy package?"},
+            {"role": "user", "content": "How much does it cost to send SMS under the Telenor Economy plan?"},
+            {"role": "user", "content": "What is the rate for sending SMS and international SMS in the Telenor Economy?"},
+            {"role": "assistant", "content": "In the Telenor Economy package, the cost for outgoing SMS is Rs. 1.80 + tax. Outgoing international SMS are charged at Rs. 5.97 + tax."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Telenor Economy package."},
+            {"role": "user", "content": "What are the internet rates for the Telenor Economy package?"},
+            {"role": "user", "content": "Can you tell me the internet charges in the Telenor Economy plan?"},
+            {"role": "user", "content": "How much does internet cost under the Telenor Economy plan?"},
+            {"role": "assistant", "content": "In the Telenor Economy package, internet usage is charged at Rs. 2.00 for every 512kb + tax. This rate applies to 2G, 3G, and 4G network usage."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Telenor Economy package."},
+            {"role": "user", "content": "What free services are included in the Telenor Economy package?"},
+            {"role": "user", "content": "Does the Telenor Economy plan offer any free services?"},
+            {"role": "user", "content": "Are there any complimentary services with the Telenor Economy package?"},
+            {"role": "assistant", "content": "The Telenor Economy package includes free services such as Call Waiting and the option to subscribe to Conference Calling."}
+        ]
+    }
+]

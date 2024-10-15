@@ -1,0 +1,9 @@
+{
+    "messages": [
+        {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing support for SIM issues."},
+        {"role": "user", "content": "How to fix invalid sim error, Emergency Call, Sim Registration Failed and/or Insert SIM errors?"},
+        {"role": "user", "content": "What should I do if my SIM says 'Invalid', 'Emergency Calls Only', or 'SIM Not Registered'?"},
+        {"role": "user", "content": "My SIM isn't working, showing errors like 'Invalid SIM' and 'SIM Registration Failed'. How can I fix this?"},
+        {"role": "assistant", "content": "As a first step, try changing your handset. If the issue persists, visit our nearest franchise for SIM replacement with your original CNIC."}
+    ]
+}

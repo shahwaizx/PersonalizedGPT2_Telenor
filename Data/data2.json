@@ -1,0 +1,9 @@
+{
+    "messages": [
+        {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about purchasing new SIMs."},
+        {"role": "user", "content": "How can I buy new Telenor Sim?"},
+        {"role": "user", "content": "Where do I go to get a new Telenor SIM card?"},
+        {"role": "user", "content": "What's the process to purchase a Telenor SIM?"},
+        {"role": "assistant", "content": "You can buy a new SIM from the nearest franchise. Please visit the franchise with your original CNIC. For locations, visit: https://www.telenor.com.pk/franchise-addresses/"}
+    ]
+}

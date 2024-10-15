@@ -1,0 +1,47 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Global Bundle."},
+            {"role": "user", "content": "What does the Global Bundle offer?"},
+            {"role": "user", "content": "Can you tell me about the Global Bundle?"},
+            {"role": "user", "content": "What are the benefits of the Global Bundle?"},
+            {"role": "assistant", "content": "The Global Bundle offers 1500 MB of internet, 30 minutes of voice calls (incoming and outgoing), and 30 SMS (outgoing). It is valid for 30 days and allows you to use these resources anywhere in the world."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Global Bundle."},
+            {"role": "user", "content": "How can I activate the Global Bundle?"},
+            {"role": "user", "content": "What is the activation process for the Global Bundle?"},
+            {"role": "user", "content": "How do I subscribe to the Global Bundle?"},
+            {"role": "assistant", "content": "To activate the Global Bundle, dial *759# (Dial for Free). You can subscribe to the bundle both in Pakistan and anywhere in the world."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Global Bundle."},
+            {"role": "user", "content": "Who is eligible for the Global Bundle?"},
+            {"role": "user", "content": "Is the Global Bundle available for all Telenor subscribers?"},
+            {"role": "user", "content": "Can postpaid and prepaid users use the Global Bundle?"},
+            {"role": "assistant", "content": "The Global Bundle is only available for Telenor postpaid subscribers."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Global Bundle."},
+            {"role": "user", "content": "How long is the Global Bundle valid for?"},
+            {"role": "user", "content": "What is the validity of the Global Bundle?"},
+            {"role": "user", "content": "How many days can I use the Global Bundle?"},
+            {"role": "assistant", "content": "The Global Bundle is valid for 30 days from the date of activation."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Global Bundle."},
+            {"role": "user", "content": "Are there any additional conditions for the Global Bundle?"},
+            {"role": "user", "content": "What are the terms and conditions for the Global Bundle?"},
+            {"role": "user", "content": "Are there any extra charges or limitations with the Global Bundle?"},
+            {"role": "assistant", "content": "The Global Bundle's offer mechanics and price are subject to change. It will expire if the main account validity ends but remains unchanged if you change your package plan. IR service must be activated by dialing *759# (Dial for Free). The bundle can be subscribed multiple times, and resources will accumulate with each subscription. Telenor reserves the right to withdraw the offer at any time."}
+        ]
+    }
+]

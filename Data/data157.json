@@ -1,0 +1,34 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Mini Data Bundle offer for Thailand, Malaysia, Turkey, and Singapore."},
+            {"role": "user", "content": "What is the cost of the Mini Data Bundle for Thailand, Malaysia, Turkey, and Singapore?"},
+            {"role": "user", "content": "How much does the Mini Data Bundle cost for Thailand, Malaysia, Turkey, and Singapore?"},
+            {"role": "assistant", "content": "The Mini Data Bundle for Thailand, Malaysia, Turkey, and Singapore costs Rs. 399."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Mini Data Bundle offer for Thailand, Malaysia, Turkey, and Singapore."},
+            {"role": "user", "content": "How can I activate the Mini Data Bundle for Thailand, Malaysia, Turkey, and Singapore?"},
+            {"role": "user", "content": "What is the activation process for the Mini Data Bundle for Thailand, Malaysia, Turkey, and Singapore?"},
+            {"role": "assistant", "content": "To activate the Mini Data Bundle, dial *759# (Dial for Free)."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Mini Data Bundle offer for Thailand, Malaysia, Turkey, and Singapore."},
+            {"role": "user", "content": "What is the validity of the Mini Data Bundle for Thailand, Malaysia, Turkey, and Singapore?"},
+            {"role": "user", "content": "How long is the Mini Data Bundle valid for Thailand, Malaysia, Turkey, and Singapore?"},
+            {"role": "assistant", "content": "The Mini Data Bundle is valid for 30 days."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Mini Data Bundle offer for Thailand, Malaysia, Turkey, and Singapore."},
+            {"role": "user", "content": "What are the terms and conditions for the Mini Data Bundle for Thailand, Malaysia, Turkey, and Singapore?"},
+            {"role": "user", "content": "Can you provide details about the terms and conditions for the Mini Data Bundle for Thailand, Malaysia, Turkey, and Singapore?"},
+            {"role": "assistant", "content": "The Mini Data Bundle will expire when the main account validity ends but will remain unchanged on package plan changes. IR service needs to be activated by dialing *759#. The bundle can be subscribed in Pakistan and abroad by dialing *759#, but it will be consumed only in Thailand, Malaysia, Turkey, and Singapore. The offer mechanics and price are subject to change, and Telenor reserves the right to withdraw the offer at any time."}
+        ]
+    }
+]

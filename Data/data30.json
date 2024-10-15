@@ -1,0 +1,134 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing support for the Weekly Music Package."},
+            {"role": "user", "content": "What does the Weekly Music Package include?"},
+            {"role": "user", "content": "Can you tell me about the Weekly Music Package?"},
+            {"role": "user", "content": "What are the benefits of the Weekly Music Package?"},
+            {"role": "assistant", "content": "The Weekly Music Package includes 1000MB of internet specifically for Soundcloud and Patari usage for Rs. 10, including taxes. This package is valid for 7 days and allows you to stream your favorite songs all week long."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on how to subscribe to the Weekly Music Package."},
+            {"role": "user", "content": "How can I subscribe to the Weekly Music Package?"},
+            {"role": "user", "content": "What's the code to activate the Weekly Music Package?"},
+            {"role": "user", "content": "Tell me how to get the Weekly Music Package."},
+            {"role": "assistant", "content": "You can subscribe to the Weekly Music Package by dialing *345*13# from your Telenor GSM Prepaid SIM. You can also subscribe using the MyTelenor App."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing details on package renewals."},
+            {"role": "user", "content": "Does the Weekly Music Package renew automatically?"},
+            {"role": "user", "content": "Will my Weekly Music Package automatically renew?"},
+            {"role": "assistant", "content": "The Weekly Music Package does not renew automatically. You must manually subscribe again once it expires to continue using the services."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on package eligibility."},
+            {"role": "user", "content": "Who is eligible for the Weekly Music Package?"},
+            {"role": "user", "content": "Can anyone subscribe to the Weekly Music Package?"},
+            {"role": "assistant", "content": "All Telenor GSM Prepaid customers are eligible for the Weekly Music Package."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on package validity."},
+            {"role": "user", "content": "How long is the Weekly Music Package valid for?"},
+            {"role": "user", "content": "What is the validity of the Weekly Music Package?"},
+            {"role": "assistant", "content": "The Weekly Music Package is valid for 7 days from the date of subscription."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on package usage."},
+            {"role": "user", "content": "What happens if my data finishes before the Weekly Music Package expires?"},
+            {"role": "user", "content": "What are the charges if I run out of data before the Weekly Music Package validity ends?"},
+            {"role": "assistant", "content": "If your data finishes before the package expires, you will be charged at Rs 1/MB incl. tax until the package expires."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on package subscription."},
+            {"role": "user", "content": "Can I subscribe to the Weekly Music Package multiple times within its validity period?"},
+            {"role": "user", "content": "Is it possible to resubscribe to the Weekly Music Package before it expires?"},
+            {"role": "assistant", "content": "Yes, you can subscribe to the Weekly Music Package multiple times within its validity period. However, resources and their validity from multiple subscriptions are independent of each other and will not merge."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on data speed and availability."},
+            {"role": "user", "content": "What factors can affect the data speed of the Weekly Music Package?"},
+            {"role": "user", "content": "Will my data speed vary with the Weekly Music Package?"},
+            {"role": "assistant", "content": "Data speed for the Weekly Music Package can vary depending on factors such as your phone, types of URLs accessed, busy hour logistics, network service provider, and your location. Data packages can be availed in 2G/3G/4G network providing areas."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing support for the Weekly Sports Package."},
+            {"role": "user", "content": "What does the Weekly Sports Package include?"},
+            {"role": "user", "content": "Can you tell me about the Weekly Sports Package?"},
+            {"role": "user", "content": "What are the benefits of the Weekly Sports Package?"},
+            {"role": "assistant", "content": "The Weekly Sports Package includes 2000MB of internet for free access to Cricwick. This allows you to live stream cricket matches, use Fantasy League features, and stay updated with live scores. The package is valid for 7 days for Rs. 20, including taxes."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on how to subscribe to the Weekly Sports Package."},
+            {"role": "user", "content": "How can I subscribe to the Weekly Sports Package?"},
+            {"role": "user", "content": "What's the code to activate the Weekly Sports Package?"},
+            {"role": "user", "content": "Tell me how to get the Weekly Sports Package."},
+            {"role": "assistant", "content": "You can activate the Weekly Sports Package by dialing *345*196# from your Telenor postpaid number. You can also subscribe via the MyTelenor App or Telenor's website. After subscribing, download the Cricwick app or visit their website, then enter your phone number and OTP to activate your free subscription."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing details on package renewals."},
+            {"role": "user", "content": "Does the Weekly Sports Package renew automatically?"},
+            {"role": "user", "content": "Will my Weekly Sports Package automatically renew?"},
+            {"role": "assistant", "content": "The Weekly Sports Package does not renew automatically. You need to manually subscribe again once the package expires if you want to continue using the services."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on package eligibility."},
+            {"role": "user", "content": "Who is eligible for the Weekly Sports Package?"},
+            {"role": "user", "content": "Can anyone subscribe to the Weekly Sports Package?"},
+            {"role": "assistant", "content": "The Weekly Sports Package is available for Telenor postpaid customers only."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on package validity."},
+            {"role": "user", "content": "How long is the Weekly Sports Package valid for?"},
+            {"role": "user", "content": "What is the validity of the Weekly Sports Package?"},
+            {"role": "assistant", "content": "The Weekly Sports Package is valid for 7 days from the date of subscription."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on package usage and charges."},
+            {"role": "user", "content": "What happens if my data finishes before the Weekly Sports Package expires?"},
+            {"role": "user", "content": "What are the charges if I run out of data before the Weekly Sports Package validity ends?"},
+            {"role": "assistant", "content": "The package does not have a specific charge for data overage since it's for Cricwick. However, if you use other data services, standard rates may apply if your 2000MB is exhausted."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on package subscription and availability."},
+            {"role": "user", "content": "Can I subscribe to the Weekly Sports Package multiple times within its validity period?"},
+            {"role": "user", "content": "Is it possible to resubscribe to the Weekly Sports Package before it expires?"},
+            {"role": "assistant", "content": "Yes, you can re-subscribe to the Weekly Sports Package if the resources expire. However, the package will not automatically renew, so you need to activate it manually."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information on package details and changes."},
+            {"role": "user", "content": "Can the terms and conditions of the Weekly Sports Package change?"},
+            {"role": "user", "content": "Will the terms of the Weekly Sports Package ever change?"},
+            {"role": "assistant", "content": "Yes, the terms and conditions of the Weekly Sports Package, including the offer mechanics and price, are subject to change. Any changes will be communicated with a 7-day notice period to customers."}
+        ]
+    }
+]

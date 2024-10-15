@@ -1,0 +1,38 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Telenor A1 package."},
+            {"role": "user", "content": "What are the rates for the Telenor A1 package?"},
+            {"role": "user", "content": "Can you tell me about the calling and SMS charges in the Telenor A1 plan?"},
+            {"role": "user", "content": "How much does it cost to make calls and send SMS with the Telenor A1 package?"},
+            {"role": "assistant", "content": "The Telenor A1 package offers Telenor to Telenor and other network calls at Rs. 2.93 per 60 seconds + tax. SMS are charged at Rs. 1.80 + tax for all networks, and outgoing international SMS at Rs. 5.97 + tax. Video calls are Rs. 2.00 per 5 minutes + tax."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Telenor A1 package."},
+            {"role": "user", "content": "How can I activate the Telenor A1 package?"},
+            {"role": "user", "content": "What is the activation code for the Telenor A1 package?"},
+            {"role": "user", "content": "How do I subscribe to the Telenor A1 plan?"},
+            {"role": "assistant", "content": "To subscribe to the Telenor A1 package, you can dial the specific USSD code provided by Telenor for this package. Please check the latest Telenor communications or their official website for the exact activation code."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Telenor A1 package."},
+            {"role": "user", "content": "What free services are included in the Telenor A1 package?"},
+            {"role": "user", "content": "Does the Telenor A1 plan offer any free services?"},
+            {"role": "user", "content": "Are there any complimentary services with the Telenor A1 package?"},
+            {"role": "assistant", "content": "The Telenor A1 package includes free services such as Call Waiting and the option to subscribe to Conference Calling."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Telenor A1 package."},
+            {"role": "user", "content": "What internet rates does the Telenor A1 package offer?"},
+            {"role": "user", "content": "How much does internet cost under the Telenor A1 plan?"},
+            {"role": "user", "content": "What are the internet charges in the Telenor A1 package?"},
+            {"role": "assistant", "content": "In the Telenor A1 package, internet usage is charged at Rs. 2.00 per 512kb + tax. This rate applies across 2G, 3G, and 4G networks."}
+        ]
+    }
+]

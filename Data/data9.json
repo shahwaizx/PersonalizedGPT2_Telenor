@@ -1,0 +1,20 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing support for PUK code issues."},
+            {"role": "user", "content": "What is the PUK code for my SIM?"},
+            {"role": "user", "content": "How do I find out my SIM's PUK code?"},
+            {"role": "user", "content": "Can you help me retrieve the PUK code for my SIM?"},
+            {"role": "assistant", "content": "If your SIM requires a PUK code, call our helpline on 345 or UAN Number 042 111345100 to obtain the PUK PIN code from our agent."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing support for SIM issues including PUK blocks."},
+            {"role": "user", "content": "On my mobile screen, I am facing an error showing ‘PUK BLOCK’; how to fix this error?"},
+            {"role": "user", "content": "My phone shows a ‘PUK BLOCK’ message, what should I do?"},
+            {"role": "user", "content": "How can I resolve a ‘PUK BLOCK’ error on my phone?"},
+            {"role": "assistant", "content": "If your mobile screen shows ‘PUK BLOCK,’ replace your SIM by visiting our nearest franchise with your original CNIC."}
+        ]
+    }
+]

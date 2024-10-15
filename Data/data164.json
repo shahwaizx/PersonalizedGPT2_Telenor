@@ -1,0 +1,23 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Free First Call Offer."},
+            {"role": "user", "content": "How can I activate the Free First Call Offer?"},
+            {"role": "assistant", "content": "To activate the Free First Call Offer, dial *888#. Once subscribed, you'll enjoy your first Telenor call of the day for free between 12 AM and 12 PM every day for a week. The activation charge is Rs. 5, inclusive of tax."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Free First Call Offer."},
+            {"role": "user", "content": "Who is eligible for the Free First Call Offer?"},
+            {"role": "assistant", "content": "The Free First Call Offer is available to Telenor prepaid customers who have not purchased their SIM after November 4, 2020. Customers who acquired their SIMs after this date are not eligible for this offer."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Free First Call Offer."},
+            {"role": "user", "content": "What are the terms and conditions of the Free First Call Offer?"},
+            {"role": "assistant", "content": "The Free First Call Offer costs Rs. 5, inclusive of tax, to activate. It provides a free Telenor call daily from 12 AM to 12 PM for 7 days. Re-subscription within the 7 days is not permitted, and call setup charges are not applicable. Telenor reserves the right to change or withdraw the offer at any time."}
+        ]
+    }
+]

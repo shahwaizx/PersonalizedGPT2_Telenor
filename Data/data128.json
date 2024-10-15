@@ -1,0 +1,38 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Weekly Extreme Plus package."},
+            {"role": "user", "content": "What does the Weekly Extreme Plus package include?"},
+            {"role": "user", "content": "Can you tell me what's offered in the Weekly Extreme Plus package?"},
+            {"role": "user", "content": "What are the benefits of the Telenor Weekly Extreme Plus package?"},
+            {"role": "assistant", "content": "The Weekly Extreme Plus package offers 80GB of internet (40GB + 40GB from 1am to 11am), 15,000 Telenor minutes, 300 offnet minutes, and 5,000 SMS for Rs. 400 including tax. The package is valid for 7 days and can be activated by dialing *345*46#."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Weekly Extreme Plus package."},
+            {"role": "user", "content": "How can I activate the Weekly Extreme Plus package?"},
+            {"role": "user", "content": "What is the method to subscribe to the Weekly Extreme Plus package?"},
+            {"role": "user", "content": "How do I get the Weekly Extreme Plus package?"},
+            {"role": "assistant", "content": "You can activate the Weekly Extreme Plus package by dialing *345*46#. The package is valid for 7 days and provides extensive connectivity features."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Weekly Extreme Plus package."},
+            {"role": "user", "content": "Who is eligible for the Weekly Extreme Plus package?"},
+            {"role": "user", "content": "Can all Telenor customers subscribe to the Weekly Extreme Plus package?"},
+            {"role": "user", "content": "What are the eligibility criteria for the Weekly Extreme Plus package?"},
+            {"role": "assistant", "content": "All Telenor Prepaid customers are eligible for the Weekly Extreme Plus offer."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Weekly Extreme Plus package."},
+            {"role": "user", "content": "How long is the Weekly Extreme Plus package valid?"},
+            {"role": "user", "content": "What is the validity period of the Weekly Extreme Plus package?"},
+            {"role": "user", "content": "For how many days does the Weekly Extreme Plus package remain active?"},
+            {"role": "assistant", "content": "The Weekly Extreme Plus package is valid for 7 days from the date of subscription. Subscribers will be notified once the package expires."}
+        ]
+    }
+]

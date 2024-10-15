@@ -1,0 +1,29 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing support for SIM verification issues."},
+            {"role": "user", "content": "I need to biometrically verify my SIM card, what is the process for it?"},
+            {"role": "user", "content": "How do I go about biometric verification of my SIM?"},
+            {"role": "user", "content": "What's required for biometric SIM verification?"},
+            {"role": "assistant", "content": "Please visit our nearest franchise with the SIM and original CNIC for biometric verification."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing support for SIM management."},
+            {"role": "user", "content": "How can I disown my Telenor SIM?"},
+            {"role": "user", "content": "What is the procedure to disown a Telenor SIM card?"},
+            {"role": "user", "content": "Can I disown my SIM? If so, how?"},
+            {"role": "assistant", "content": "If you want to disown your Telenor SIM, please visit our nearest franchise, with original CNIC and make sure the SIM activation date is at least 60 days old."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing support for SIM ownership inquiries."},
+            {"role": "user", "content": "How can I check my SIM’s ownership details?"},
+            {"role": "user", "content": "What's the method to find out who owns a SIM registered to my CNIC?"},
+            {"role": "user", "content": "How do I verify the ownership of my SIM card?"},
+            {"role": "assistant", "content": "Send a text message by typing 'MNP' from the same SIM number and send to 667 (Charges Rs. 2.39) or call our helpline on 345 (UAN number 042111345100) for SIM ownership information."}
+        ]
+    }
+]

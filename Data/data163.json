@@ -1,0 +1,29 @@
+[
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Free First Call Offer."},
+            {"role": "user", "content": "How can I get my first call free every day for a week?"},
+            {"role": "user", "content": "What do I need to do to have my first daily call free for the next week?"},
+            {"role": "user", "content": "What steps should I follow to enjoy free first calls daily for a week?"},
+            {"role": "assistant", "content": "You can enjoy your first Telenor call of the day for free for the next week by dialing *888#. This free call is available between 12 AM to 12 PM every day for 7 days, starting from the day of subscription."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Free First Call Offer."},
+            {"role": "user", "content": "Who is eligible for the Free First Call Offer?"},
+            {"role": "user", "content": "Can anyone subscribe to the Free First Call Offer?"},
+            {"role": "user", "content": "What are the eligibility criteria for the Free First Call Offer?"},
+            {"role": "assistant", "content": "The Free First Call Offer is available to Telenor prepaid customers except those who purchased their SIM after November 4, 2020. These newer customers are not eligible to subscribe to this offer."}
+        ]
+    },
+    {
+        "messages": [
+            {"role": "system", "content": "You are a chatbot for Telenor Pakistan providing information about the Free First Call Offer."},
+            {"role": "user", "content": "What are the terms for the Free First Call Offer?"},
+            {"role": "user", "content": "Can you tell me the conditions applied to the Free First Call Offer?"},
+            {"role": "user", "content": "What do I need to know about the rules of the Free First Call Offer?"},
+            {"role": "assistant", "content": "The Free First Call Offer has a validity of 7 days from the day of subscription. It allows you to make your first Telenor call of the day free between 12 AM to 12 PM. The offer is activated for a charge of Rs. 5 incl. tax, and call setup charges do not apply. Note, new customers who purchased a SIM after November 4, 2020, cannot subscribe, and re-subscription during the 7-day period is not allowed."}
+        ]
+    }
+]
